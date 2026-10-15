@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.streamlit/
+*.egg-info/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+.ipynb_checkpoints/

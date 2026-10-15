@@ -1,0 +1,16 @@
+product_id,brand_name,therapy_area,molecule,dosage_form,launch_date,price
+P001,ONCO-A1,Oncology,Molecule-ON1,Tablet,2021-08-01,3870.76
+P002,ONCO-B2,Oncology,Molecule-ON2,Capsule,2016-09-01,469.09
+P003,ONCO-C3,Oncology,Molecule-ON3,Capsule,2022-09-01,3547.99
+P004,CARD-A4,Cardiology,Molecule-CA1,Syrup,2019-02-01,2054.22
+P005,CARD-B5,Cardiology,Molecule-CA2,Capsule,2018-03-01,2915.2
+P006,CARD-C6,Cardiology,Molecule-CA3,Inhaler,2018-10-01,2023.19
+P007,DIAB-A7,Diabetes,Molecule-DI1,Capsule,2017-02-01,333.99
+P008,DIAB-B8,Diabetes,Molecule-DI2,Capsule,2022-10-01,2860.91
+P009,DIAB-C9,Diabetes,Molecule-DI3,Tablet,2021-09-01,4369.61
+P010,RESP-A10,Respiratory,Molecule-RE1,Injection,2019-11-01,3513.81
+P011,RESP-B11,Respiratory,Molecule-RE2,Syrup,2017-05-01,244.93
+P012,RESP-C12,Respiratory,Molecule-RE3,Capsule,2019-02-01,3089.57
+P013,NEUR-A13,Neurology,Molecule-NE1,Inhaler,2021-05-01,1499.92
+P014,NEUR-B14,Neurology,Molecule-NE2,Inhaler,2022-05-01,2139.52
+P015,NEUR-C15,Neurology,Molecule-NE3,Syrup,2017-06-01,2166.89

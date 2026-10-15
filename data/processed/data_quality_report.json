@@ -1,0 +1,69 @@
+[
+  {
+    "table": "product_master.csv",
+    "total_records": 15,
+    "duplicate_records": 0,
+    "invalid_launch_date": 0,
+    "null_cells_total": 0,
+    "clean_records": 15,
+    "pct_records_removed": 0.0
+  },
+  {
+    "table": "hcp_master.csv",
+    "total_records": 350,
+    "duplicate_records": 0,
+    "null_cells_total": 0,
+    "clean_records": 350,
+    "pct_records_removed": 0.0
+  },
+  {
+    "table": "sales_transactions",
+    "total_records": 24278,
+    "duplicate_records": 46,
+    "invalid_dates": 24,
+    "invalid_product_ids": 24,
+    "missing_hcp_mappings": 191,
+    "negative_value_records": 36,
+    "outlier_transactions": 7,
+    "clean_records": 23957,
+    "pct_records_removed": 1.322
+  },
+  {
+    "table": "prescriptions",
+    "total_records": 24230,
+    "duplicate_records": 0,
+    "invalid_dates": 0,
+    "invalid_product_ids": 0,
+    "missing_hcp_mappings": 0,
+    "negative_value_records": 0,
+    "clean_records": 24230,
+    "pct_records_removed": 0.0
+  },
+  {
+    "table": "market_data.csv",
+    "total_records": 540,
+    "duplicate_records": 0,
+    "invalid_month": 0,
+    "null_cells_total": 0,
+    "clean_records": 540,
+    "pct_records_removed": 0.0
+  },
+  {
+    "table": "patient_access.csv",
+    "total_records": 720,
+    "duplicate_records": 0,
+    "invalid_month": 0,
+    "null_cells_total": 0,
+    "clean_records": 720,
+    "pct_records_removed": 0.0
+  },
+  {
+    "table": "hcp_engagement.csv",
+    "total_records": 25828,
+    "duplicate_records": 0,
+    "invalid_date": 0,
+    "null_cells_total": 0,
+    "clean_records": 25828,
+    "pct_records_removed": 0.0
+  }
+]

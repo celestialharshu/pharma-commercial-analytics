@@ -1,0 +1,8 @@
+table,total_records,duplicate_records,invalid_launch_date,null_cells_total,clean_records,pct_records_removed,invalid_dates,invalid_product_ids,missing_hcp_mappings,negative_value_records,outlier_transactions,invalid_month,invalid_date
+product_master.csv,15,0,0.0,0.0,15,0.0,,,,,,,
+hcp_master.csv,350,0,,0.0,350,0.0,,,,,,,
+sales_transactions,24278,46,,,23957,1.322,24.0,24.0,191.0,36.0,7.0,,
+prescriptions,24230,0,,,24230,0.0,0.0,0.0,0.0,0.0,,,
+market_data.csv,540,0,,0.0,540,0.0,,,,,,0.0,
+patient_access.csv,720,0,,0.0,720,0.0,,,,,,0.0,
+hcp_engagement.csv,25828,0,,0.0,25828,0.0,,,,,,,0.0

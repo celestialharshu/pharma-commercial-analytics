@@ -1,0 +1,351 @@
+hcp_id,specialty,primary_therapy_area,city,state,hospital_type,hcp_segment
+H0001,Oncologist,Oncology,Mysuru,Karnataka,Private,Low potential
+H0002,General Physician,Respiratory,Ahmedabad,Gujarat,Corporate Chain,Low potential
+H0003,General Physician,Cardiology,Thiruvananthapuram,Kerala,Trust/NGO,High potential
+H0004,General Physician,Cardiology,Faridabad,Haryana,Trust/NGO,Medium potential
+H0005,Oncologist,Oncology,Ahmedabad,Gujarat,Private,Medium potential
+H0006,Pulmonologist,Respiratory,Gurugram,Haryana,Trust/NGO,Medium potential
+H0007,Hematologist,Oncology,Patna,Bihar,Private,Medium potential
+H0008,Pulmonologist,Respiratory,Gaya,Bihar,Government,Medium potential
+H0009,General Physician,Cardiology,Bengaluru,Karnataka,Corporate Chain,Medium potential
+H0010,General Physician,Diabetes,New Delhi,Delhi,Private,Medium potential
+H0011,General Physician,Diabetes,Amritsar,Punjab,Trust/NGO,Medium potential
+H0012,Endocrinologist,Diabetes,Howrah,West Bengal,Government,High potential
+H0013,Oncologist,Oncology,Jodhpur,Rajasthan,Private,High potential
+H0014,General Physician,Neurology,Lucknow,Uttar Pradesh,Trust/NGO,Medium potential
+H0015,Oncologist,Oncology,Bengaluru,Karnataka,Private,Medium potential
+H0016,Neurologist,Neurology,Kochi,Kerala,Corporate Chain,Low potential
+H0017,General Physician,Diabetes,Kolkata,West Bengal,Corporate Chain,Low potential
+H0018,General Physician,Cardiology,Jaipur,Rajasthan,Private,High potential
+H0019,General Physician,Diabetes,Ludhiana,Punjab,Government,Medium potential
+H0020,General Physician,Neurology,Patna,Bihar,Corporate Chain,Low potential
+H0021,General Physician,Diabetes,Mumbai,Maharashtra,Private,Medium potential
+H0022,Hematologist,Oncology,Mumbai,Maharashtra,Private,High potential
+H0023,Oncologist,Oncology,Gurugram,Haryana,Government,High potential
+H0024,Hematologist,Oncology,Jaipur,Rajasthan,Corporate Chain,Medium potential
+H0025,Endocrinologist,Diabetes,Pune,Maharashtra,Government,Low potential
+H0026,Endocrinologist,Diabetes,Cuttack,Odisha,Government,Medium potential
+H0027,Pulmonologist,Respiratory,Howrah,West Bengal,Private,Medium potential
+H0028,Neurologist,Neurology,Lucknow,Uttar Pradesh,Private,Medium potential
+H0029,Cardiologist,Cardiology,Thiruvananthapuram,Kerala,Corporate Chain,High potential
+H0030,General Physician,Cardiology,Chennai,Tamil Nadu,Trust/NGO,Medium potential
+H0031,General Physician,Cardiology,Surat,Gujarat,Trust/NGO,High potential
+H0032,General Physician,Respiratory,Lucknow,Uttar Pradesh,Government,Medium potential
+H0033,Endocrinologist,Diabetes,Coimbatore,Tamil Nadu,Corporate Chain,Medium potential
+H0034,General Physician,Cardiology,Mumbai,Maharashtra,Private,Medium potential
+H0035,General Physician,Neurology,Gurugram,Haryana,Government,Medium potential
+H0036,General Physician,Neurology,Faridabad,Haryana,Trust/NGO,Low potential
+H0037,General Physician,Cardiology,Amritsar,Punjab,Private,Low potential
+H0038,General Physician,Cardiology,Kolkata,West Bengal,Government,Low potential
+H0039,Cardiologist,Cardiology,New Delhi,Delhi,Government,High potential
+H0040,Neurologist,Neurology,Indore,Madhya Pradesh,Government,Medium potential
+H0041,Hematologist,Oncology,Raipur,Chhattisgarh,Private,Low potential
+H0042,Oncologist,Oncology,Lucknow,Uttar Pradesh,Government,High potential
+H0043,Endocrinologist,Diabetes,Bengaluru,Karnataka,Trust/NGO,High potential
+H0044,Oncologist,Oncology,Cuttack,Odisha,Private,High potential
+H0045,General Physician,Respiratory,Bhopal,Madhya Pradesh,Trust/NGO,High potential
+H0046,Pulmonologist,Respiratory,Amritsar,Punjab,Private,Medium potential
+H0047,Neurologist,Neurology,Cuttack,Odisha,Corporate Chain,Medium potential
+H0048,General Physician,Respiratory,Raipur,Chhattisgarh,Private,Medium potential
+H0049,Hematologist,Oncology,Amritsar,Punjab,Private,Low potential
+H0050,Oncologist,Oncology,Patna,Bihar,Corporate Chain,Medium potential
+H0051,General Physician,Neurology,Jodhpur,Rajasthan,Government,Low potential
+H0052,Oncologist,Oncology,Jaipur,Rajasthan,Private,Medium potential
+H0053,General Physician,Cardiology,Bilaspur,Chhattisgarh,Private,Medium potential
+H0054,General Physician,Respiratory,Kolkata,West Bengal,Corporate Chain,Medium potential
+H0055,General Physician,Respiratory,Bengaluru,Karnataka,Trust/NGO,Low potential
+H0056,General Physician,Cardiology,Amritsar,Punjab,Private,High potential
+H0057,Oncologist,Oncology,Bhopal,Madhya Pradesh,Government,Low potential
+H0058,General Physician,Cardiology,Gurugram,Haryana,Government,High potential
+H0059,General Physician,Cardiology,New Delhi,Delhi,Government,High potential
+H0060,Neurologist,Neurology,Howrah,West Bengal,Trust/NGO,Medium potential
+H0061,Neurologist,Neurology,Kanpur,Uttar Pradesh,Corporate Chain,Low potential
+H0062,Endocrinologist,Diabetes,Bhubaneswar,Odisha,Government,Medium potential
+H0063,General Physician,Respiratory,Lucknow,Uttar Pradesh,Government,Medium potential
+H0064,General Physician,Neurology,Raipur,Chhattisgarh,Corporate Chain,High potential
+H0065,General Physician,Diabetes,Ahmedabad,Gujarat,Corporate Chain,Low potential
+H0066,General Physician,Cardiology,Coimbatore,Tamil Nadu,Trust/NGO,Medium potential
+H0067,General Physician,Respiratory,Jaipur,Rajasthan,Private,Medium potential
+H0068,General Physician,Neurology,Bhopal,Madhya Pradesh,Private,Medium potential
+H0069,Cardiologist,Cardiology,New Delhi,Delhi,Private,Medium potential
+H0070,Hematologist,Oncology,Bengaluru,Karnataka,Private,Medium potential
+H0071,Cardiologist,Cardiology,Kochi,Kerala,Private,Low potential
+H0072,General Physician,Respiratory,Bilaspur,Chhattisgarh,Private,Medium potential
+H0073,General Physician,Diabetes,Bhopal,Madhya Pradesh,Corporate Chain,Medium potential
+H0074,General Physician,Respiratory,Mumbai,Maharashtra,Trust/NGO,Medium potential
+H0075,General Physician,Cardiology,Surat,Gujarat,Government,Medium potential
+H0076,General Physician,Neurology,Amritsar,Punjab,Government,Low potential
+H0077,General Physician,Respiratory,Faridabad,Haryana,Corporate Chain,Medium potential
+H0078,Neurologist,Neurology,Jodhpur,Rajasthan,Corporate Chain,Medium potential
+H0079,General Physician,Respiratory,Patna,Bihar,Private,High potential
+H0080,Oncologist,Oncology,Patna,Bihar,Private,Medium potential
+H0081,General Physician,Diabetes,Jodhpur,Rajasthan,Private,Medium potential
+H0082,Pulmonologist,Respiratory,Bilaspur,Chhattisgarh,Government,High potential
+H0083,Oncologist,Oncology,Pune,Maharashtra,Trust/NGO,Medium potential
+H0084,General Physician,Diabetes,Thiruvananthapuram,Kerala,Trust/NGO,Medium potential
+H0085,General Physician,Neurology,Thiruvananthapuram,Kerala,Government,High potential
+H0086,Cardiologist,Cardiology,Kanpur,Uttar Pradesh,Private,Low potential
+H0087,Endocrinologist,Diabetes,Gaya,Bihar,Trust/NGO,Medium potential
+H0088,Neurologist,Neurology,Thiruvananthapuram,Kerala,Trust/NGO,Low potential
+H0089,Neurologist,Neurology,Ludhiana,Punjab,Private,High potential
+H0090,Neurologist,Neurology,Patna,Bihar,Government,Medium potential
+H0091,General Physician,Respiratory,Bhopal,Madhya Pradesh,Private,Medium potential
+H0092,Cardiologist,Cardiology,Coimbatore,Tamil Nadu,Trust/NGO,High potential
+H0093,Neurologist,Neurology,Lucknow,Uttar Pradesh,Private,Low potential
+H0094,Neurologist,Neurology,Amritsar,Punjab,Trust/NGO,Medium potential
+H0095,General Physician,Neurology,Amritsar,Punjab,Government,Medium potential
+H0096,Neurologist,Neurology,Faridabad,Haryana,Government,Low potential
+H0097,Pulmonologist,Respiratory,Pune,Maharashtra,Government,High potential
+H0098,Hematologist,Oncology,Pune,Maharashtra,Government,Low potential
+H0099,Neurologist,Neurology,New Delhi,Delhi,Corporate Chain,Low potential
+H0100,Hematologist,Oncology,Indore,Madhya Pradesh,Corporate Chain,High potential
+H0101,Endocrinologist,Diabetes,Ludhiana,Punjab,Private,Low potential
+H0102,General Physician,Diabetes,Amritsar,Punjab,Government,Low potential
+H0103,Oncologist,Oncology,New Delhi,Delhi,Trust/NGO,Low potential
+H0104,General Physician,Cardiology,Pune,Maharashtra,Private,High potential
+H0105,Oncologist,Oncology,Raipur,Chhattisgarh,Government,High potential
+H0106,General Physician,Respiratory,Gurugram,Haryana,Private,Low potential
+H0107,Neurologist,Neurology,Pune,Maharashtra,Government,Low potential
+H0108,General Physician,Diabetes,Chennai,Tamil Nadu,Trust/NGO,Medium potential
+H0109,Endocrinologist,Diabetes,Lucknow,Uttar Pradesh,Private,Medium potential
+H0110,Hematologist,Oncology,Bhubaneswar,Odisha,Government,Medium potential
+H0111,Oncologist,Oncology,Coimbatore,Tamil Nadu,Private,Medium potential
+H0112,General Physician,Diabetes,Kolkata,West Bengal,Government,Medium potential
+H0113,General Physician,Diabetes,Coimbatore,Tamil Nadu,Private,Medium potential
+H0114,Oncologist,Oncology,Bengaluru,Karnataka,Private,Low potential
+H0115,General Physician,Diabetes,Pune,Maharashtra,Private,Low potential
+H0116,Pulmonologist,Respiratory,Patna,Bihar,Private,Medium potential
+H0117,General Physician,Diabetes,Cuttack,Odisha,Corporate Chain,Low potential
+H0118,General Physician,Respiratory,Cuttack,Odisha,Trust/NGO,Medium potential
+H0119,General Physician,Diabetes,Bhopal,Madhya Pradesh,Government,High potential
+H0120,General Physician,Diabetes,Indore,Madhya Pradesh,Private,Medium potential
+H0121,Oncologist,Oncology,Faridabad,Haryana,Trust/NGO,High potential
+H0122,Cardiologist,Cardiology,Indore,Madhya Pradesh,Private,High potential
+H0123,Neurologist,Neurology,Pune,Maharashtra,Private,Low potential
+H0124,Oncologist,Oncology,Lucknow,Uttar Pradesh,Private,Medium potential
+H0125,Pulmonologist,Respiratory,Surat,Gujarat,Private,High potential
+H0126,General Physician,Cardiology,Mysuru,Karnataka,Government,High potential
+H0127,Endocrinologist,Diabetes,Indore,Madhya Pradesh,Private,Low potential
+H0128,General Physician,Neurology,Kanpur,Uttar Pradesh,Private,Medium potential
+H0129,Oncologist,Oncology,Amritsar,Punjab,Private,Medium potential
+H0130,General Physician,Respiratory,Gurugram,Haryana,Corporate Chain,High potential
+H0131,Hematologist,Oncology,Bengaluru,Karnataka,Private,Medium potential
+H0132,General Physician,Cardiology,Bhubaneswar,Odisha,Government,Low potential
+H0133,Hematologist,Oncology,Pune,Maharashtra,Trust/NGO,Low potential
+H0134,General Physician,Respiratory,New Delhi,Delhi,Private,Medium potential
+H0135,Neurologist,Neurology,Bilaspur,Chhattisgarh,Private,Low potential
+H0136,General Physician,Respiratory,Thiruvananthapuram,Kerala,Corporate Chain,Medium potential
+H0137,Hematologist,Oncology,Kochi,Kerala,Private,Medium potential
+H0138,Endocrinologist,Diabetes,New Delhi,Delhi,Corporate Chain,Medium potential
+H0139,Cardiologist,Cardiology,Gurugram,Haryana,Government,High potential
+H0140,General Physician,Cardiology,Bilaspur,Chhattisgarh,Private,Medium potential
+H0141,General Physician,Diabetes,New Delhi,Delhi,Private,Low potential
+H0142,General Physician,Diabetes,Surat,Gujarat,Private,Medium potential
+H0143,General Physician,Neurology,Pune,Maharashtra,Trust/NGO,Low potential
+H0144,General Physician,Respiratory,Howrah,West Bengal,Government,Low potential
+H0145,Neurologist,Neurology,Pune,Maharashtra,Trust/NGO,Low potential
+H0146,Hematologist,Oncology,Gurugram,Haryana,Trust/NGO,Low potential
+H0147,Pulmonologist,Respiratory,New Delhi,Delhi,Government,Low potential
+H0148,Hematologist,Oncology,Cuttack,Odisha,Private,Low potential
+H0149,Neurologist,Neurology,Kolkata,West Bengal,Government,Medium potential
+H0150,General Physician,Respiratory,Bhopal,Madhya Pradesh,Corporate Chain,High potential
+H0151,Neurologist,Neurology,Thiruvananthapuram,Kerala,Government,Medium potential
+H0152,Hematologist,Oncology,Surat,Gujarat,Corporate Chain,Low potential
+H0153,Pulmonologist,Respiratory,Bhopal,Madhya Pradesh,Government,Medium potential
+H0154,Oncologist,Oncology,Bhopal,Madhya Pradesh,Private,Medium potential
+H0155,Hematologist,Oncology,New Delhi,Delhi,Private,Low potential
+H0156,General Physician,Respiratory,Bengaluru,Karnataka,Corporate Chain,Medium potential
+H0157,General Physician,Respiratory,Raipur,Chhattisgarh,Private,Medium potential
+H0158,Oncologist,Oncology,Gaya,Bihar,Government,High potential
+H0159,Pulmonologist,Respiratory,Howrah,West Bengal,Corporate Chain,Low potential
+H0160,Pulmonologist,Respiratory,Jaipur,Rajasthan,Government,Medium potential
+H0161,Hematologist,Oncology,Indore,Madhya Pradesh,Private,Medium potential
+H0162,General Physician,Diabetes,Bengaluru,Karnataka,Government,Medium potential
+H0163,Oncologist,Oncology,Kochi,Kerala,Government,Medium potential
+H0164,General Physician,Neurology,Raipur,Chhattisgarh,Private,Low potential
+H0165,General Physician,Neurology,Cuttack,Odisha,Private,Low potential
+H0166,Cardiologist,Cardiology,Patna,Bihar,Corporate Chain,Medium potential
+H0167,General Physician,Neurology,Mysuru,Karnataka,Trust/NGO,Medium potential
+H0168,Neurologist,Neurology,Chennai,Tamil Nadu,Government,Low potential
+H0169,Oncologist,Oncology,New Delhi,Delhi,Trust/NGO,Low potential
+H0170,General Physician,Diabetes,Howrah,West Bengal,Corporate Chain,Medium potential
+H0171,Endocrinologist,Diabetes,Indore,Madhya Pradesh,Trust/NGO,High potential
+H0172,Neurologist,Neurology,Patna,Bihar,Trust/NGO,Low potential
+H0173,Hematologist,Oncology,Cuttack,Odisha,Government,Low potential
+H0174,General Physician,Diabetes,Ludhiana,Punjab,Government,High potential
+H0175,Hematologist,Oncology,Kolkata,West Bengal,Private,High potential
+H0176,General Physician,Diabetes,Amritsar,Punjab,Government,Medium potential
+H0177,Cardiologist,Cardiology,Mysuru,Karnataka,Private,Medium potential
+H0178,Cardiologist,Cardiology,New Delhi,Delhi,Government,Low potential
+H0179,Oncologist,Oncology,Amritsar,Punjab,Private,Medium potential
+H0180,Endocrinologist,Diabetes,Gaya,Bihar,Corporate Chain,Medium potential
+H0181,Cardiologist,Cardiology,Patna,Bihar,Private,Medium potential
+H0182,Cardiologist,Cardiology,Jaipur,Rajasthan,Corporate Chain,High potential
+H0183,Endocrinologist,Diabetes,Indore,Madhya Pradesh,Government,High potential
+H0184,Cardiologist,Cardiology,New Delhi,Delhi,Government,High potential
+H0185,General Physician,Neurology,New Delhi,Delhi,Government,Medium potential
+H0186,Endocrinologist,Diabetes,Amritsar,Punjab,Private,Low potential
+H0187,Endocrinologist,Diabetes,Coimbatore,Tamil Nadu,Private,High potential
+H0188,General Physician,Neurology,Kanpur,Uttar Pradesh,Private,Low potential
+H0189,Endocrinologist,Diabetes,Kanpur,Uttar Pradesh,Corporate Chain,Medium potential
+H0190,General Physician,Respiratory,Gurugram,Haryana,Trust/NGO,Medium potential
+H0191,Cardiologist,Cardiology,Bhubaneswar,Odisha,Private,High potential
+H0192,Neurologist,Neurology,Jaipur,Rajasthan,Government,High potential
+H0193,General Physician,Respiratory,Indore,Madhya Pradesh,Trust/NGO,Medium potential
+H0194,Hematologist,Oncology,Faridabad,Haryana,Government,High potential
+H0195,General Physician,Respiratory,New Delhi,Delhi,Private,Low potential
+H0196,Oncologist,Oncology,New Delhi,Delhi,Government,Low potential
+H0197,General Physician,Diabetes,Kochi,Kerala,Corporate Chain,Low potential
+H0198,General Physician,Diabetes,Faridabad,Haryana,Private,High potential
+H0199,General Physician,Diabetes,Ludhiana,Punjab,Trust/NGO,Low potential
+H0200,Oncologist,Oncology,New Delhi,Delhi,Government,Low potential
+H0201,General Physician,Diabetes,Mysuru,Karnataka,Private,Medium potential
+H0202,General Physician,Respiratory,Surat,Gujarat,Private,Low potential
+H0203,General Physician,Respiratory,Lucknow,Uttar Pradesh,Private,High potential
+H0204,Endocrinologist,Diabetes,Jaipur,Rajasthan,Private,High potential
+H0205,General Physician,Diabetes,Bilaspur,Chhattisgarh,Trust/NGO,High potential
+H0206,Cardiologist,Cardiology,Lucknow,Uttar Pradesh,Government,Low potential
+H0207,Hematologist,Oncology,Raipur,Chhattisgarh,Private,Low potential
+H0208,General Physician,Cardiology,Bilaspur,Chhattisgarh,Private,Low potential
+H0209,General Physician,Cardiology,Surat,Gujarat,Private,High potential
+H0210,General Physician,Respiratory,Bilaspur,Chhattisgarh,Trust/NGO,High potential
+H0211,Neurologist,Neurology,Bengaluru,Karnataka,Government,Low potential
+H0212,General Physician,Respiratory,Thiruvananthapuram,Kerala,Corporate Chain,Medium potential
+H0213,General Physician,Respiratory,Chennai,Tamil Nadu,Private,Medium potential
+H0214,Pulmonologist,Respiratory,Pune,Maharashtra,Private,High potential
+H0215,Neurologist,Neurology,Kochi,Kerala,Government,High potential
+H0216,Cardiologist,Cardiology,Ahmedabad,Gujarat,Corporate Chain,Medium potential
+H0217,Cardiologist,Cardiology,Ludhiana,Punjab,Corporate Chain,Medium potential
+H0218,Pulmonologist,Respiratory,Mysuru,Karnataka,Private,Medium potential
+H0219,Oncologist,Oncology,Bengaluru,Karnataka,Private,Low potential
+H0220,Oncologist,Oncology,Pune,Maharashtra,Government,Medium potential
+H0221,Endocrinologist,Diabetes,Chennai,Tamil Nadu,Corporate Chain,Low potential
+H0222,Pulmonologist,Respiratory,Kanpur,Uttar Pradesh,Corporate Chain,High potential
+H0223,Neurologist,Neurology,Faridabad,Haryana,Private,High potential
+H0224,General Physician,Cardiology,Indore,Madhya Pradesh,Private,High potential
+H0225,Pulmonologist,Respiratory,Bengaluru,Karnataka,Corporate Chain,Medium potential
+H0226,Hematologist,Oncology,Jodhpur,Rajasthan,Private,Medium potential
+H0227,Cardiologist,Cardiology,Jaipur,Rajasthan,Government,Low potential
+H0228,Pulmonologist,Respiratory,Ludhiana,Punjab,Government,Medium potential
+H0229,Neurologist,Neurology,Indore,Madhya Pradesh,Private,Medium potential
+H0230,Oncologist,Oncology,Mysuru,Karnataka,Corporate Chain,Low potential
+H0231,General Physician,Respiratory,Thiruvananthapuram,Kerala,Government,Medium potential
+H0232,Endocrinologist,Diabetes,Gurugram,Haryana,Corporate Chain,Low potential
+H0233,Neurologist,Neurology,Bhubaneswar,Odisha,Private,Medium potential
+H0234,General Physician,Diabetes,Kolkata,West Bengal,Government,Low potential
+H0235,Oncologist,Oncology,Cuttack,Odisha,Government,Medium potential
+H0236,General Physician,Neurology,Bengaluru,Karnataka,Government,High potential
+H0237,Cardiologist,Cardiology,Raipur,Chhattisgarh,Private,Medium potential
+H0238,General Physician,Cardiology,Howrah,West Bengal,Government,Low potential
+H0239,Endocrinologist,Diabetes,Indore,Madhya Pradesh,Private,High potential
+H0240,General Physician,Respiratory,Bilaspur,Chhattisgarh,Government,Medium potential
+H0241,Cardiologist,Cardiology,Jodhpur,Rajasthan,Trust/NGO,Low potential
+H0242,General Physician,Respiratory,Bengaluru,Karnataka,Private,Medium potential
+H0243,General Physician,Neurology,New Delhi,Delhi,Corporate Chain,Medium potential
+H0244,Neurologist,Neurology,Kochi,Kerala,Government,High potential
+H0245,General Physician,Respiratory,Bhubaneswar,Odisha,Corporate Chain,Medium potential
+H0246,General Physician,Diabetes,Ahmedabad,Gujarat,Trust/NGO,Medium potential
+H0247,Oncologist,Oncology,Pune,Maharashtra,Private,High potential
+H0248,Hematologist,Oncology,Kanpur,Uttar Pradesh,Government,Medium potential
+H0249,General Physician,Cardiology,Jodhpur,Rajasthan,Corporate Chain,Medium potential
+H0250,General Physician,Respiratory,Gurugram,Haryana,Corporate Chain,Medium potential
+H0251,General Physician,Respiratory,Kochi,Kerala,Private,Low potential
+H0252,General Physician,Diabetes,Surat,Gujarat,Private,Medium potential
+H0253,Endocrinologist,Diabetes,Ahmedabad,Gujarat,Private,High potential
+H0254,Neurologist,Neurology,Coimbatore,Tamil Nadu,Trust/NGO,Medium potential
+H0255,Cardiologist,Cardiology,Raipur,Chhattisgarh,Government,Low potential
+H0256,General Physician,Neurology,Jaipur,Rajasthan,Trust/NGO,High potential
+H0257,Neurologist,Neurology,Jaipur,Rajasthan,Private,Medium potential
+H0258,General Physician,Neurology,Jaipur,Rajasthan,Private,Low potential
+H0259,General Physician,Respiratory,Gaya,Bihar,Private,Medium potential
+H0260,Oncologist,Oncology,Surat,Gujarat,Private,Medium potential
+H0261,Endocrinologist,Diabetes,Patna,Bihar,Corporate Chain,Medium potential
+H0262,Cardiologist,Cardiology,Faridabad,Haryana,Corporate Chain,Medium potential
+H0263,General Physician,Neurology,Ahmedabad,Gujarat,Private,Medium potential
+H0264,Neurologist,Neurology,Howrah,West Bengal,Corporate Chain,Low potential
+H0265,General Physician,Neurology,New Delhi,Delhi,Trust/NGO,Low potential
+H0266,Pulmonologist,Respiratory,Cuttack,Odisha,Government,Medium potential
+H0267,General Physician,Diabetes,Chennai,Tamil Nadu,Private,Medium potential
+H0268,Cardiologist,Cardiology,Mysuru,Karnataka,Corporate Chain,High potential
+H0269,Neurologist,Neurology,New Delhi,Delhi,Private,Low potential
+H0270,Hematologist,Oncology,Bengaluru,Karnataka,Trust/NGO,High potential
+H0271,Oncologist,Oncology,Howrah,West Bengal,Government,High potential
+H0272,Oncologist,Oncology,Howrah,West Bengal,Corporate Chain,Low potential
+H0273,Pulmonologist,Respiratory,Lucknow,Uttar Pradesh,Trust/NGO,Medium potential
+H0274,General Physician,Diabetes,Mysuru,Karnataka,Government,Low potential
+H0275,Endocrinologist,Diabetes,Gurugram,Haryana,Private,Medium potential
+H0276,General Physician,Cardiology,Jodhpur,Rajasthan,Corporate Chain,Low potential
+H0277,Hematologist,Oncology,Ludhiana,Punjab,Trust/NGO,Low potential
+H0278,Cardiologist,Cardiology,Chennai,Tamil Nadu,Private,High potential
+H0279,General Physician,Cardiology,Jaipur,Rajasthan,Trust/NGO,Low potential
+H0280,General Physician,Neurology,Lucknow,Uttar Pradesh,Private,Low potential
+H0281,General Physician,Respiratory,Gurugram,Haryana,Corporate Chain,High potential
+H0282,General Physician,Diabetes,Raipur,Chhattisgarh,Government,Medium potential
+H0283,Cardiologist,Cardiology,Bhubaneswar,Odisha,Government,Medium potential
+H0284,General Physician,Neurology,Ludhiana,Punjab,Trust/NGO,Low potential
+H0285,Cardiologist,Cardiology,New Delhi,Delhi,Corporate Chain,Low potential
+H0286,Hematologist,Oncology,Patna,Bihar,Government,Medium potential
+H0287,General Physician,Neurology,Jodhpur,Rajasthan,Trust/NGO,Medium potential
+H0288,General Physician,Cardiology,Jodhpur,Rajasthan,Private,Medium potential
+H0289,General Physician,Diabetes,Mysuru,Karnataka,Government,High potential
+H0290,Pulmonologist,Respiratory,Gurugram,Haryana,Corporate Chain,Medium potential
+H0291,Hematologist,Oncology,Kanpur,Uttar Pradesh,Trust/NGO,Medium potential
+H0292,Hematologist,Oncology,Kochi,Kerala,Corporate Chain,Low potential
+H0293,Neurologist,Neurology,Faridabad,Haryana,Trust/NGO,Medium potential
+H0294,Cardiologist,Cardiology,Jaipur,Rajasthan,Private,Low potential
+H0295,Endocrinologist,Diabetes,Ahmedabad,Gujarat,Government,Medium potential
+H0296,Oncologist,Oncology,Cuttack,Odisha,Private,Low potential
+H0297,Cardiologist,Cardiology,Bhopal,Madhya Pradesh,Private,Medium potential
+H0298,Endocrinologist,Diabetes,Bhubaneswar,Odisha,Private,Medium potential
+H0299,General Physician,Cardiology,New Delhi,Delhi,Government,Medium potential
+H0300,General Physician,Diabetes,Jodhpur,Rajasthan,Government,Low potential
+H0301,Oncologist,Oncology,Bhopal,Madhya Pradesh,Corporate Chain,High potential
+H0302,Cardiologist,Cardiology,Cuttack,Odisha,Government,Medium potential
+H0303,Oncologist,Oncology,Raipur,Chhattisgarh,Government,Medium potential
+H0304,Endocrinologist,Diabetes,Ludhiana,Punjab,Corporate Chain,Medium potential
+H0305,Cardiologist,Cardiology,Bengaluru,Karnataka,Private,Medium potential
+H0306,General Physician,Neurology,Kolkata,West Bengal,Corporate Chain,Low potential
+H0307,Pulmonologist,Respiratory,Jaipur,Rajasthan,Government,Medium potential
+H0308,Endocrinologist,Diabetes,Faridabad,Haryana,Trust/NGO,Low potential
+H0309,General Physician,Respiratory,Faridabad,Haryana,Government,Medium potential
+H0310,Oncologist,Oncology,Cuttack,Odisha,Private,Low potential
+H0311,Neurologist,Neurology,Indore,Madhya Pradesh,Private,Medium potential
+H0312,General Physician,Cardiology,Lucknow,Uttar Pradesh,Private,Medium potential
+H0313,Endocrinologist,Diabetes,Mumbai,Maharashtra,Government,High potential
+H0314,General Physician,Respiratory,New Delhi,Delhi,Private,Medium potential
+H0315,Endocrinologist,Diabetes,Howrah,West Bengal,Corporate Chain,Low potential
+H0316,General Physician,Respiratory,Thiruvananthapuram,Kerala,Private,Medium potential
+H0317,Cardiologist,Cardiology,Kolkata,West Bengal,Private,Medium potential
+H0318,General Physician,Respiratory,Kochi,Kerala,Government,High potential
+H0319,General Physician,Cardiology,Surat,Gujarat,Government,Medium potential
+H0320,General Physician,Cardiology,Jodhpur,Rajasthan,Corporate Chain,Low potential
+H0321,Cardiologist,Cardiology,Patna,Bihar,Government,Low potential
+H0322,General Physician,Respiratory,Kochi,Kerala,Private,High potential
+H0323,General Physician,Neurology,New Delhi,Delhi,Trust/NGO,Medium potential
+H0324,Oncologist,Oncology,Thiruvananthapuram,Kerala,Corporate Chain,Medium potential
+H0325,Cardiologist,Cardiology,Kolkata,West Bengal,Trust/NGO,Medium potential
+H0326,General Physician,Neurology,Lucknow,Uttar Pradesh,Private,Medium potential
+H0327,Pulmonologist,Respiratory,Howrah,West Bengal,Private,Medium potential
+H0328,General Physician,Cardiology,Amritsar,Punjab,Corporate Chain,High potential
+H0329,General Physician,Neurology,Kanpur,Uttar Pradesh,Private,High potential
+H0330,General Physician,Cardiology,Bhubaneswar,Odisha,Private,Low potential
+H0331,General Physician,Respiratory,Raipur,Chhattisgarh,Private,Medium potential
+H0332,Oncologist,Oncology,Bilaspur,Chhattisgarh,Corporate Chain,Medium potential
+H0333,Pulmonologist,Respiratory,Surat,Gujarat,Government,Medium potential
+H0334,Endocrinologist,Diabetes,Howrah,West Bengal,Government,Medium potential
+H0335,Oncologist,Oncology,Jodhpur,Rajasthan,Government,Medium potential
+H0336,General Physician,Neurology,Raipur,Chhattisgarh,Government,High potential
+H0337,Endocrinologist,Diabetes,Gurugram,Haryana,Corporate Chain,Medium potential
+H0338,General Physician,Cardiology,Howrah,West Bengal,Government,Medium potential
+H0339,General Physician,Neurology,Bilaspur,Chhattisgarh,Private,Medium potential
+H0340,Cardiologist,Cardiology,Mysuru,Karnataka,Corporate Chain,Low potential
+H0341,Pulmonologist,Respiratory,Mysuru,Karnataka,Private,Low potential
+H0342,Cardiologist,Cardiology,Coimbatore,Tamil Nadu,Corporate Chain,High potential
+H0343,Cardiologist,Cardiology,New Delhi,Delhi,Government,Medium potential
+H0344,Neurologist,Neurology,Bilaspur,Chhattisgarh,Private,Medium potential
+H0345,General Physician,Diabetes,New Delhi,Delhi,Corporate Chain,Medium potential
+H0346,Pulmonologist,Respiratory,Bhubaneswar,Odisha,Corporate Chain,High potential
+H0347,General Physician,Respiratory,Amritsar,Punjab,Corporate Chain,Low potential
+H0348,General Physician,Respiratory,Thiruvananthapuram,Kerala,Government,Low potential
+H0349,General Physician,Cardiology,Thiruvananthapuram,Kerala,Corporate Chain,Low potential
+H0350,General Physician,Diabetes,Jaipur,Rajasthan,Private,Medium potential

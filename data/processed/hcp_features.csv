@@ -1,0 +1,351 @@
+hcp_id,specialty,primary_therapy_area,city,state,hospital_type,hcp_segment,monetary_value,frequency,last_engagement_date,last_sales_date,last_activity_date,recency_days,sales_last_6m,sales_prior_6m,growth_pct,monetary_score,recency_score,frequency_score,value_growth_segment
+H0001,Oncologist,Oncology,Mysuru,Karnataka,Private,Low potential,448828.32,93,2024-12-09,2024-12-01,2024-12-09,-8,89963.68000000001,65856.85,36.60489379616547,2,2,1,Low Activity
+H0002,General Physician,Respiratory,Ahmedabad,Gujarat,Corporate Chain,Low potential,359472.83999999997,103,2024-12-15,2024-12-01,2024-12-15,-14,64104.18,46264.26,38.56091073325283,2,2,2,Low Activity
+H0003,General Physician,Cardiology,Thiruvananthapuram,Kerala,Trust/NGO,High potential,2397651.46,708,2024-12-26,2024-12-01,2024-12-26,-25,446168.7,511367.44,-12.74988098577414,4,4,4,Emerging HCP
+H0004,General Physician,Cardiology,Faridabad,Haryana,Trust/NGO,Medium potential,962392.39,269,2024-12-20,2024-12-01,2024-12-20,-19,168737.78,122091.2,38.20634083373741,2,3,2,Emerging HCP
+H0005,Oncologist,Oncology,Ahmedabad,Gujarat,Private,Medium potential,1175305.26,303,2024-12-13,2024-12-01,2024-12-13,-12,196278.57,221820.83,-11.514815808776833,3,2,3,High Value / Low Engagement
+H0006,Pulmonologist,Respiratory,Gurugram,Haryana,Trust/NGO,Medium potential,1121887.14,307,2024-12-21,2024-12-01,2024-12-21,-20,213271.65,247884.62,-13.963339072831547,3,3,3,Emerging HCP
+H0007,Hematologist,Oncology,Patna,Bihar,Private,Medium potential,1076823.47,269,2024-12-18,2024-12-01,2024-12-18,-17,267456.17,112893.05,136.9111030307003,3,3,2,High Value / High Growth
+H0008,Pulmonologist,Respiratory,Gaya,Bihar,Government,Medium potential,855166.56,253,2024-12-14,2024-12-01,2024-12-14,-13,170370.02000000002,201636.88,-15.506518450394584,2,2,2,Low Activity
+H0009,General Physician,Cardiology,Bengaluru,Karnataka,Corporate Chain,Medium potential,1021763.18,293,2024-12-17,2024-12-01,2024-12-17,-16,171584.18,208917.23,-17.869780295287285,3,2,3,High Value / Low Engagement
+H0010,General Physician,Diabetes,New Delhi,Delhi,Private,Medium potential,1086238.75,285,2024-12-22,2024-12-01,2024-12-22,-21,185588.16999999998,225898.50999999998,-17.844447048366984,3,3,3,Emerging HCP
+H0011,General Physician,Diabetes,Amritsar,Punjab,Trust/NGO,Medium potential,960699.14,247,2024-11-14,2024-12-01,2024-12-01,0,182784.93,151391.8,20.736347675369476,2,1,2,Low Activity
+H0012,Endocrinologist,Diabetes,Howrah,West Bengal,Government,High potential,1956330.03,588,2024-12-11,2024-12-01,2024-12-11,-10,341481.92,266184.37,28.287742815252447,4,2,4,High Value / High Growth
+H0013,Oncologist,Oncology,Jodhpur,Rajasthan,Private,High potential,2558303.51,682,2024-12-24,2024-12-01,2024-12-24,-23,556229.85,461011.39,20.654253249578055,4,3,4,High Value / High Growth
+H0014,General Physician,Neurology,Lucknow,Uttar Pradesh,Trust/NGO,Medium potential,877274.59,279,2024-12-22,2024-12-01,2024-12-22,-21,120138.38,247578.47,-51.47462539856556,2,3,2,Low Activity
+H0015,Oncologist,Oncology,Bengaluru,Karnataka,Private,Medium potential,1405994.65,376,2024-12-20,2024-12-01,2024-12-20,-19,184257.1,301929.83,-38.973535672179196,4,3,4,Emerging HCP
+H0016,Neurologist,Neurology,Kochi,Kerala,Corporate Chain,Low potential,327347.86,109,2024-12-16,2024-11-01,2024-12-16,-15,36283.380000000005,36168.77,0.3168755807842176,1,2,2,Low Activity
+H0017,General Physician,Diabetes,Kolkata,West Bengal,Corporate Chain,Low potential,346885.33,115,2024-11-05,2024-12-01,2024-12-01,0,66917.02,66532.56,0.5778524079037488,2,1,2,Low Activity
+H0018,General Physician,Cardiology,Jaipur,Rajasthan,Private,High potential,2139380.87,637,2024-12-25,2024-12-01,2024-12-25,-24,348675.97,307216.73,13.495111415319078,4,4,4,High Value / High Growth
+H0019,General Physician,Diabetes,Ludhiana,Punjab,Government,Medium potential,1191674.65,301,2024-12-14,2024-12-01,2024-12-14,-13,274792.79,155741.79,76.44126858950315,3,2,3,High Value / High Growth
+H0020,General Physician,Neurology,Patna,Bihar,Corporate Chain,Low potential,209423.04,66,2024-12-12,2024-12-01,2024-12-12,-11,36335.25,36064.91,0.7495928868254391,1,2,1,Low Activity
+H0021,General Physician,Diabetes,Mumbai,Maharashtra,Private,Medium potential,1118677.3,291,2024-12-05,2024-12-01,2024-12-05,-4,221028.39,100290.29000000001,120.38862386378581,3,1,3,High Value / High Growth
+H0022,Hematologist,Oncology,Mumbai,Maharashtra,Private,High potential,2759636.41,735,2024-12-26,2024-12-01,2024-12-26,-25,526855.57,476496.82,10.568538526657942,4,4,4,High Value / High Growth
+H0023,Oncologist,Oncology,Gurugram,Haryana,Government,High potential,2342435.89,613,2024-12-27,2024-12-01,2024-12-27,-26,410575.76,486061.25,-15.530036595182189,4,4,4,Emerging HCP
+H0024,Hematologist,Oncology,Jaipur,Rajasthan,Corporate Chain,Medium potential,1155610.79,300,2024-11-25,2024-12-01,2024-12-01,0,156200.86,180442.11000000002,-13.434364073884986,3,1,3,High Value / Low Engagement
+H0025,Endocrinologist,Diabetes,Pune,Maharashtra,Government,Low potential,321768.1,81,2024-09-04,2024-10-01,2024-10-01,61,46642.15,82509.23,-43.47038507085813,1,1,1,Low Activity
+H0026,Endocrinologist,Diabetes,Cuttack,Odisha,Government,Medium potential,1076547.73,282,2024-11-26,2024-12-01,2024-12-01,0,133620.49,195847.32,-31.773133275451517,3,1,3,High Value / Low Engagement
+H0027,Pulmonologist,Respiratory,Howrah,West Bengal,Private,Medium potential,801007.62,257,2024-12-27,2024-12-01,2024-12-27,-26,169559.37,164516.41,3.0653233923594563,2,4,2,Low Activity
+H0028,Neurologist,Neurology,Lucknow,Uttar Pradesh,Private,Medium potential,856033.52,310,2024-12-09,2024-12-01,2024-12-09,-8,132646.81,166243.09,-20.209128692206093,2,2,3,Emerging HCP
+H0029,Cardiologist,Cardiology,Thiruvananthapuram,Kerala,Corporate Chain,High potential,2138705.21,666,2024-12-27,2024-12-01,2024-12-27,-26,317497.98,513628.99,-38.185346586453385,4,4,4,Emerging HCP
+H0030,General Physician,Cardiology,Chennai,Tamil Nadu,Trust/NGO,Medium potential,1041223.07,257,2024-12-21,2024-12-01,2024-12-21,-20,110131.73,159882.41999999998,-31.117048390936286,3,3,2,Low Activity
+H0031,General Physician,Cardiology,Surat,Gujarat,Trust/NGO,High potential,2299931.4,625,2024-12-26,2024-12-01,2024-12-26,-25,346007.36,410964.32,-15.805985298188421,4,4,4,Emerging HCP
+H0032,General Physician,Respiratory,Lucknow,Uttar Pradesh,Government,Medium potential,822565.94,244,2024-12-09,2024-12-01,2024-12-09,-8,128335.76999999999,189602.1,-32.31310729153317,2,2,2,Low Activity
+H0033,Endocrinologist,Diabetes,Coimbatore,Tamil Nadu,Corporate Chain,Medium potential,935315.73,294,2024-12-04,2024-12-01,2024-12-04,-3,134204.5,158069.96,-15.098036337834204,2,1,3,Emerging HCP
+H0034,General Physician,Cardiology,Mumbai,Maharashtra,Private,Medium potential,1079094.4,280,2024-12-26,2024-12-01,2024-12-26,-25,185673.63,194304.06,-4.441713672889796,3,4,2,Low Activity
+H0035,General Physician,Neurology,Gurugram,Haryana,Government,Medium potential,786351.77,250,2024-12-19,2024-12-01,2024-12-19,-18,97787.14,111088.83,-11.973922130604851,2,3,2,Low Activity
+H0036,General Physician,Neurology,Faridabad,Haryana,Trust/NGO,Low potential,326253.0,117,2024-07-18,2024-12-01,2024-12-01,0,83346.16,37805.770000000004,120.45883472284785,1,1,2,Low Activity
+H0037,General Physician,Cardiology,Amritsar,Punjab,Private,Low potential,330724.39,98,2024-12-17,2024-12-01,2024-12-17,-16,40609.61,96967.04,-58.12019218076575,1,2,1,Low Activity
+H0038,General Physician,Cardiology,Kolkata,West Bengal,Government,Low potential,304611.87,78,2024-08-03,2024-12-01,2024-12-01,0,16130.62,97852.51,-83.51537431180867,1,1,1,Low Activity
+H0039,Cardiologist,Cardiology,New Delhi,Delhi,Government,High potential,2307939.4,654,2024-12-27,2024-12-01,2024-12-27,-26,456757.33999999997,402328.27,13.528522368065246,4,4,4,High Value / High Growth
+H0040,Neurologist,Neurology,Indore,Madhya Pradesh,Government,Medium potential,867625.82,309,2024-12-24,2024-12-01,2024-12-24,-23,183937.09,212080.88,-13.27030989309362,2,3,3,Emerging HCP
+H0041,Hematologist,Oncology,Raipur,Chhattisgarh,Private,Low potential,316897.82,107,2024-12-27,2024-11-01,2024-12-27,-26,76884.92,45373.520000000004,69.44887678981043,1,4,2,Emerging HCP
+H0042,Oncologist,Oncology,Lucknow,Uttar Pradesh,Government,High potential,2106125.91,593,2024-12-24,2024-12-01,2024-12-24,-23,283117.31,361309.61,-21.64135628720199,4,3,4,Emerging HCP
+H0043,Endocrinologist,Diabetes,Bengaluru,Karnataka,Trust/NGO,High potential,2292802.85,588,2024-12-20,2024-12-01,2024-12-20,-19,391267.91000000003,372653.95,4.994971876723706,4,3,4,Emerging HCP
+H0044,Oncologist,Oncology,Cuttack,Odisha,Private,High potential,2590158.76,683,2024-12-01,2024-12-01,2024-12-01,0,556592.24,292633.24,90.20130454079653,4,1,4,High Value / High Growth
+H0045,General Physician,Respiratory,Bhopal,Madhya Pradesh,Trust/NGO,High potential,2126156.52,633,2024-12-24,2024-12-01,2024-12-24,-23,542443.09,324149.19,67.34365123664197,4,3,4,High Value / High Growth
+H0046,Pulmonologist,Respiratory,Amritsar,Punjab,Private,Medium potential,782571.69,248,2024-12-12,2024-12-01,2024-12-12,-11,134765.78,129237.81,4.27736279344257,2,2,2,Low Activity
+H0047,Neurologist,Neurology,Cuttack,Odisha,Corporate Chain,Medium potential,948635.5,296,2024-11-23,2024-12-01,2024-12-01,0,188316.06,121268.19,55.28891789347231,2,1,3,Emerging HCP
+H0048,General Physician,Respiratory,Raipur,Chhattisgarh,Private,Medium potential,769075.9,231,2024-12-12,2024-12-01,2024-12-12,-11,135313.68,136837.31,-1.1134609413178356,2,2,2,Low Activity
+H0049,Hematologist,Oncology,Amritsar,Punjab,Private,Low potential,230412.45,45,2024-10-12,2024-11-01,2024-11-01,30,81466.93,25196.08,223.3317643061936,1,1,1,Low Activity
+H0050,Oncologist,Oncology,Patna,Bihar,Corporate Chain,Medium potential,1051581.39,231,2024-11-26,2024-12-01,2024-12-01,0,200723.85,160118.91,25.359240829206243,3,1,2,High Value / High Growth
+H0051,General Physician,Neurology,Jodhpur,Rajasthan,Government,Low potential,297350.86,60,2024-12-16,2024-12-01,2024-12-16,-15,69646.32,53525.89,30.117070449459145,1,2,1,Low Activity
+H0052,Oncologist,Oncology,Jaipur,Rajasthan,Private,Medium potential,923156.37,276,2024-12-06,2024-12-01,2024-12-06,-5,195696.86000000002,181559.64,7.786543308854324,2,1,2,Low Activity
+H0053,General Physician,Cardiology,Bilaspur,Chhattisgarh,Private,Medium potential,798165.69,212,2024-12-06,2024-12-01,2024-12-06,-5,149874.63,143563.91999999998,4.395749294112352,2,2,2,Low Activity
+H0054,General Physician,Respiratory,Kolkata,West Bengal,Corporate Chain,Medium potential,927379.4,315,2024-12-27,2024-12-01,2024-12-27,-26,224295.8,173637.16,29.174999176443556,2,4,3,Emerging HCP
+H0055,General Physician,Respiratory,Bengaluru,Karnataka,Trust/NGO,Low potential,236378.53,67,2024-09-08,2024-11-01,2024-11-01,30,22494.01,17700.36,27.082217536818447,1,1,1,Low Activity
+H0056,General Physician,Cardiology,Amritsar,Punjab,Private,High potential,2493440.67,692,2024-12-26,2024-12-01,2024-12-26,-25,320203.1,452497.13,-29.236435157058352,4,4,4,Emerging HCP
+H0057,Oncologist,Oncology,Bhopal,Madhya Pradesh,Government,Low potential,425186.08,126,2024-12-10,2024-12-01,2024-12-10,-9,40404.12,110355.05,-63.387158086557875,2,2,2,Low Activity
+H0058,General Physician,Cardiology,Gurugram,Haryana,Government,High potential,2273313.62,664,2024-12-15,2024-12-01,2024-12-15,-14,473757.25,310071.97000000003,52.78944755954559,4,2,4,High Value / High Growth
+H0059,General Physician,Cardiology,New Delhi,Delhi,Government,High potential,2198091.41,651,2024-12-22,2024-12-01,2024-12-22,-21,363726.98,407837.85,-10.815786224844016,4,3,4,Emerging HCP
+H0060,Neurologist,Neurology,Howrah,West Bengal,Trust/NGO,Medium potential,953287.57,285,2024-12-26,2024-12-01,2024-12-26,-25,158398.56,137270.13,15.391862745376573,2,4,3,Emerging HCP
+H0061,Neurologist,Neurology,Kanpur,Uttar Pradesh,Corporate Chain,Low potential,218225.11,68,2024-10-19,2024-12-01,2024-12-01,0,61352.67,30465.76,101.38237155416442,1,1,1,Low Activity
+H0062,Endocrinologist,Diabetes,Bhubaneswar,Odisha,Government,Medium potential,1309294.92,320,2024-12-23,2024-12-01,2024-12-23,-22,237537.34999999998,189690.14,25.223878268000625,4,3,3,High Value / High Growth
+H0063,General Physician,Respiratory,Lucknow,Uttar Pradesh,Government,Medium potential,1150741.83,341,2024-12-10,2024-12-01,2024-12-10,-9,242990.96,208081.47,16.77683745698259,3,2,3,High Value / High Growth
+H0064,General Physician,Neurology,Raipur,Chhattisgarh,Corporate Chain,High potential,2065917.46,690,2024-12-27,2024-12-01,2024-12-27,-26,448188.12,340056.65,31.798075408906122,4,4,4,High Value / High Growth
+H0065,General Physician,Diabetes,Ahmedabad,Gujarat,Corporate Chain,Low potential,336449.01,71,2024-11-03,2024-11-01,2024-11-03,28,69970.52,10882.97,542.935889743333,2,1,1,Low Activity
+H0066,General Physician,Cardiology,Coimbatore,Tamil Nadu,Trust/NGO,Medium potential,884982.87,274,2024-10-27,2024-11-01,2024-11-01,30,111825.9,140406.33000000002,-20.355513886019256,2,1,2,Low Activity
+H0067,General Physician,Respiratory,Jaipur,Rajasthan,Private,Medium potential,1089953.84,342,2024-12-07,2024-12-01,2024-12-07,-6,265449.75,125293.37,111.86256702968402,3,2,3,High Value / High Growth
+H0068,General Physician,Neurology,Bhopal,Madhya Pradesh,Private,Medium potential,998280.79,311,2024-12-26,2024-12-01,2024-12-26,-25,203776.23,221121.41999999998,-7.844192570760432,3,4,3,Emerging HCP
+H0069,Cardiologist,Cardiology,New Delhi,Delhi,Private,Medium potential,1022599.13,260,2024-11-24,2024-12-01,2024-12-01,0,178605.62,210857.56,-15.295605241756569,3,1,2,High Value / Low Engagement
+H0070,Hematologist,Oncology,Bengaluru,Karnataka,Private,Medium potential,1286465.45,311,2024-12-21,2024-11-01,2024-12-21,-20,280999.84,292454.22,-3.9166403548562054,4,3,3,Emerging HCP
+H0071,Cardiologist,Cardiology,Kochi,Kerala,Private,Low potential,306018.54,77,2024-11-25,2024-12-01,2024-12-01,0,46432.25,71924.67,-35.44322135923599,1,1,1,Low Activity
+H0072,General Physician,Respiratory,Bilaspur,Chhattisgarh,Private,Medium potential,1072955.75,331,2024-12-15,2024-12-01,2024-12-15,-14,165353.19,205969.28,-19.719489236453125,3,2,3,High Value / Low Engagement
+H0073,General Physician,Diabetes,Bhopal,Madhya Pradesh,Corporate Chain,Medium potential,1071478.21,301,2024-11-24,2024-12-01,2024-12-01,0,178669.44,196764.68,-9.19638626200596,3,1,3,High Value / Low Engagement
+H0074,General Physician,Respiratory,Mumbai,Maharashtra,Trust/NGO,Medium potential,915478.37,296,2024-12-26,2024-12-01,2024-12-26,-25,167601.26,153759.54,9.002186140775395,2,4,3,Emerging HCP
+H0075,General Physician,Cardiology,Surat,Gujarat,Government,Medium potential,1296535.35,337,2024-12-26,2024-12-01,2024-12-26,-25,251163.81,142121.5,76.72471089877324,4,4,3,High Value / High Growth
+H0076,General Physician,Neurology,Amritsar,Punjab,Government,Low potential,327098.82,90,2024-12-09,2024-12-01,2024-12-09,-8,82327.42,45694.8,80.16802787188037,1,2,1,Low Activity
+H0077,General Physician,Respiratory,Faridabad,Haryana,Corporate Chain,Medium potential,846951.86,288,2024-12-19,2024-12-01,2024-12-19,-18,123324.92,127090.93,-2.9632405711406746,2,3,3,Emerging HCP
+H0078,Neurologist,Neurology,Jodhpur,Rajasthan,Corporate Chain,Medium potential,1025470.81,327,2024-12-02,2024-12-01,2024-12-02,-1,159094.54,181225.8,-12.21198085482309,3,1,3,High Value / Low Engagement
+H0079,General Physician,Respiratory,Patna,Bihar,Private,High potential,2115204.68,618,2024-12-24,2024-12-01,2024-12-24,-23,478600.81,445713.11,7.378670104633002,4,4,4,Emerging HCP
+H0080,Oncologist,Oncology,Patna,Bihar,Private,Medium potential,1230298.62,359,2024-12-11,2024-12-01,2024-12-11,-10,156117.53,218721.7,-28.622752109187157,3,2,4,High Value / Low Engagement
+H0081,General Physician,Diabetes,Jodhpur,Rajasthan,Private,Medium potential,1050279.82,302,2024-11-25,2024-12-01,2024-12-01,0,139028.61,260864.31,-46.704625864688055,3,1,3,High Value / Low Engagement
+H0082,Pulmonologist,Respiratory,Bilaspur,Chhattisgarh,Government,High potential,2383918.31,678,2024-12-27,2024-12-01,2024-12-27,-26,693286.77,243566.98,184.63906314394504,4,4,4,High Value / High Growth
+H0083,Oncologist,Oncology,Pune,Maharashtra,Trust/NGO,Medium potential,1218147.58,353,2024-12-20,2024-12-01,2024-12-20,-19,277751.51,173706.28,59.897218454047845,3,3,4,High Value / High Growth
+H0084,General Physician,Diabetes,Thiruvananthapuram,Kerala,Trust/NGO,Medium potential,1279209.87,343,2024-12-24,2024-12-01,2024-12-24,-23,168820.38,179361.66,-5.877108853698164,4,4,3,Emerging HCP
+H0085,General Physician,Neurology,Thiruvananthapuram,Kerala,Government,High potential,2134814.27,765,2024-12-25,2024-12-01,2024-12-25,-24,383661.52,378027.2,1.490453596989848,4,4,4,Emerging HCP
+H0086,Cardiologist,Cardiology,Kanpur,Uttar Pradesh,Private,Low potential,356271.62,122,2024-11-16,2024-12-01,2024-12-01,0,57882.57,43172.79,34.07187721710827,2,1,2,Low Activity
+H0087,Endocrinologist,Diabetes,Gaya,Bihar,Trust/NGO,Medium potential,948129.44,254,2024-12-15,2024-12-01,2024-12-15,-14,65450.47,168257.5,-61.10100887033268,2,2,2,Low Activity
+H0088,Neurologist,Neurology,Thiruvananthapuram,Kerala,Trust/NGO,Low potential,237092.4,73,2024-12-19,2024-12-01,2024-12-19,-18,43504.79,13530.74,221.52557805411976,1,3,1,Emerging HCP
+H0089,Neurologist,Neurology,Ludhiana,Punjab,Private,High potential,1888404.45,656,2024-12-19,2024-12-01,2024-12-19,-18,319696.55,311361.01,2.6771303189182163,4,3,4,Emerging HCP
+H0090,Neurologist,Neurology,Patna,Bihar,Government,Medium potential,875933.54,250,2024-12-22,2024-12-01,2024-12-22,-21,226596.8,154695.66,46.479093207915454,2,3,2,Emerging HCP
+H0091,General Physician,Respiratory,Bhopal,Madhya Pradesh,Private,Medium potential,999553.01,318,2024-12-11,2024-12-01,2024-12-11,-10,111366.38,175694.02,-36.61344876735132,3,2,3,High Value / Low Engagement
+H0092,Cardiologist,Cardiology,Coimbatore,Tamil Nadu,Trust/NGO,High potential,2698014.22,852,2024-12-22,2024-12-01,2024-12-22,-21,478962.22,477495.6,0.30714838000601374,4,3,4,Emerging HCP
+H0093,Neurologist,Neurology,Lucknow,Uttar Pradesh,Private,Low potential,248060.29,83,2024-09-05,2024-11-01,2024-11-01,30,25012.27,11923.77,109.7681354135479,1,1,1,Low Activity
+H0094,Neurologist,Neurology,Amritsar,Punjab,Trust/NGO,Medium potential,988088.55,292,2024-11-10,2024-12-01,2024-12-01,0,237828.36000000002,157061.36,51.42385116237376,3,1,3,High Value / High Growth
+H0095,General Physician,Neurology,Amritsar,Punjab,Government,Medium potential,1005396.63,353,2024-12-24,2024-12-01,2024-12-24,-23,157740.52000000002,165920.63,-4.930134366052001,3,4,4,Emerging HCP
+H0096,Neurologist,Neurology,Faridabad,Haryana,Government,Low potential,262754.93,78,2024-12-11,2024-12-01,2024-12-11,-10,45557.54,51983.61,-12.361723243152985,1,2,1,Low Activity
+H0097,Pulmonologist,Respiratory,Pune,Maharashtra,Government,High potential,2266841.38,633,2024-12-26,2024-12-01,2024-12-26,-25,492729.02999999997,536163.67,-8.101003934115878,4,4,4,Emerging HCP
+H0098,Hematologist,Oncology,Pune,Maharashtra,Government,Low potential,285409.05,55,2024-12-09,2024-12-01,2024-12-09,-8,55868.9,69975.0,-20.158770989639155,1,2,1,Low Activity
+H0099,Neurologist,Neurology,New Delhi,Delhi,Corporate Chain,Low potential,295650.63,78,2024-11-14,2024-12-01,2024-12-01,0,53140.66,53132.19,0.015941371887741054,1,1,1,Low Activity
+H0100,Hematologist,Oncology,Indore,Madhya Pradesh,Corporate Chain,High potential,2390514.29,625,2024-12-24,2024-12-01,2024-12-24,-23,464487.23,406269.52,14.32982469371563,4,4,4,High Value / High Growth
+H0101,Endocrinologist,Diabetes,Ludhiana,Punjab,Private,Low potential,322296.81,78,2024-12-22,2024-12-01,2024-12-22,-21,57446.95,58378.04,-1.5949319298832296,1,3,1,Low Activity
+H0102,General Physician,Diabetes,Amritsar,Punjab,Government,Low potential,185981.04,46,2024-12-15,2024-10-01,2024-12-15,-14,25648.36,44270.59,-42.06456250074823,1,2,1,Low Activity
+H0103,Oncologist,Oncology,New Delhi,Delhi,Trust/NGO,Low potential,234536.33000000002,68,2024-12-24,2024-08-01,2024-12-24,-23,14118.02,42557.45,-66.82597289076296,1,4,1,Low Activity
+H0104,General Physician,Cardiology,Pune,Maharashtra,Private,High potential,2273342.2,622,2024-12-20,2024-12-01,2024-12-20,-19,354519.54,459609.0,-22.864970007114746,4,3,4,Emerging HCP
+H0105,Oncologist,Oncology,Raipur,Chhattisgarh,Government,High potential,2693557.87,727,2024-12-19,2024-12-01,2024-12-19,-18,431478.36,491531.85,-12.217619265160538,4,3,4,Emerging HCP
+H0106,General Physician,Respiratory,Gurugram,Haryana,Private,Low potential,312407.94,100,2024-12-27,2024-12-01,2024-12-27,-26,40511.53,35098.479999999996,15.422462739127173,1,4,2,Emerging HCP
+H0107,Neurologist,Neurology,Pune,Maharashtra,Government,Low potential,183263.18,42,2024-12-01,2024-12-01,2024-12-01,0,33599.91,41215.4,-18.4772924683492,1,1,1,Low Activity
+H0108,General Physician,Diabetes,Chennai,Tamil Nadu,Trust/NGO,Medium potential,1004173.86,225,2024-12-10,2024-12-01,2024-12-10,-9,139093.73,161511.87,-13.88018106656804,3,2,2,High Value / Low Engagement
+H0109,Endocrinologist,Diabetes,Lucknow,Uttar Pradesh,Private,Medium potential,1218116.51,357,2024-12-16,2024-12-01,2024-12-16,-15,229523.43,150618.5,52.38727646338265,3,2,4,High Value / High Growth
+H0110,Hematologist,Oncology,Bhubaneswar,Odisha,Government,Medium potential,1061761.76,304,2024-12-24,2024-12-01,2024-12-24,-23,290435.4,176090.67,64.93514392329816,3,4,3,High Value / High Growth
+H0111,Oncologist,Oncology,Coimbatore,Tamil Nadu,Private,Medium potential,1057147.23,303,2024-12-19,2024-12-01,2024-12-19,-18,261877.95,187730.63,39.496655393954626,3,3,3,High Value / High Growth
+H0112,General Physician,Diabetes,Kolkata,West Bengal,Government,Medium potential,1104320.16,303,2024-12-27,2024-11-01,2024-12-27,-26,154034.41,248183.25,-37.935211179642465,3,4,3,Emerging HCP
+H0113,General Physician,Diabetes,Coimbatore,Tamil Nadu,Private,Medium potential,1384237.05,327,2024-12-22,2024-12-01,2024-12-22,-21,239230.91999999998,284132.19,-15.802950732192652,4,3,3,Emerging HCP
+H0114,Oncologist,Oncology,Bengaluru,Karnataka,Private,Low potential,281935.69,85,2024-12-12,2024-11-01,2024-12-12,-11,14998.66,78962.47,-81.00533076029663,1,2,1,Low Activity
+H0115,General Physician,Diabetes,Pune,Maharashtra,Private,Low potential,301954.01,75,2024-12-27,2024-09-01,2024-12-27,-26,37665.97,93535.55,-59.73085099729461,1,4,1,Low Activity
+H0116,Pulmonologist,Respiratory,Patna,Bihar,Private,Medium potential,960355.33,340,2024-12-21,2024-12-01,2024-12-21,-20,191448.84,138913.44999999998,37.81879292465922,2,3,3,Emerging HCP
+H0117,General Physician,Diabetes,Cuttack,Odisha,Corporate Chain,Low potential,328032.15,97,2024-12-21,2024-12-01,2024-12-21,-20,69507.62,13909.16,399.7255046314802,1,3,1,Emerging HCP
+H0118,General Physician,Respiratory,Cuttack,Odisha,Trust/NGO,Medium potential,968843.68,318,2024-12-07,2024-12-01,2024-12-07,-6,209889.23,235588.68,-10.90860987038935,2,2,3,Emerging HCP
+H0119,General Physician,Diabetes,Bhopal,Madhya Pradesh,Government,High potential,2613414.25,739,2024-12-26,2024-12-01,2024-12-26,-25,440136.1,512648.95999999996,-14.144739511419273,4,4,4,Emerging HCP
+H0120,General Physician,Diabetes,Indore,Madhya Pradesh,Private,Medium potential,1101248.27,325,2024-12-25,2024-12-01,2024-12-25,-24,122966.7,278371.88,-55.826464943226306,3,4,3,Emerging HCP
+H0121,Oncologist,Oncology,Faridabad,Haryana,Trust/NGO,High potential,2546596.82,659,2024-12-07,2024-12-01,2024-12-07,-6,448077.51,450543.28,-0.5472881539815705,4,2,4,High Value / Low Engagement
+H0122,Cardiologist,Cardiology,Indore,Madhya Pradesh,Private,High potential,2664586.72,771,2024-12-21,2024-12-01,2024-12-21,-20,476868.31,435944.87,9.387297068090284,4,3,4,Emerging HCP
+H0123,Neurologist,Neurology,Pune,Maharashtra,Private,Low potential,261011.91999999998,70,2024-12-05,2024-12-01,2024-12-05,-4,40292.05,58698.96,-31.358153534577095,1,1,1,Low Activity
+H0124,Oncologist,Oncology,Lucknow,Uttar Pradesh,Private,Medium potential,1053712.34,289,2024-12-25,2024-12-01,2024-12-25,-24,197456.85,197984.29,-0.2664049758695512,3,4,3,Emerging HCP
+H0125,Pulmonologist,Respiratory,Surat,Gujarat,Private,High potential,2273399.77,722,2024-12-13,2024-12-01,2024-12-13,-12,416254.22,463562.33999999997,-10.205341529685091,4,2,4,High Value / Low Engagement
+H0126,General Physician,Cardiology,Mysuru,Karnataka,Government,High potential,2698744.08,738,2024-12-10,2024-12-01,2024-12-10,-9,550949.14,529557.28,4.039574340286661,4,2,4,High Value / Low Engagement
+H0127,Endocrinologist,Diabetes,Indore,Madhya Pradesh,Private,Low potential,168554.69,71,2024-12-05,2024-12-01,2024-12-05,-4,31825.62,9829.73,223.76901501872382,1,1,1,Low Activity
+H0128,General Physician,Neurology,Kanpur,Uttar Pradesh,Private,Medium potential,994488.08,292,2024-12-25,2024-12-01,2024-12-25,-24,218229.16,147060.81,48.39382429622141,3,4,3,High Value / High Growth
+H0129,Oncologist,Oncology,Amritsar,Punjab,Private,Medium potential,1159146.66,353,2024-12-27,2024-12-01,2024-12-27,-26,214436.34,182384.16,17.57399326783641,3,4,4,High Value / High Growth
+H0130,General Physician,Respiratory,Gurugram,Haryana,Corporate Chain,High potential,2247040.19,589,2024-12-27,2024-12-01,2024-12-27,-26,347121.04,423114.76,-17.960545739411224,4,4,4,Emerging HCP
+H0131,Hematologist,Oncology,Bengaluru,Karnataka,Private,Medium potential,1237554.72,346,2024-12-11,2024-12-01,2024-12-11,-10,176387.67,294902.4,-40.18778077085843,4,2,3,High Value / Low Engagement
+H0132,General Physician,Cardiology,Bhubaneswar,Odisha,Government,Low potential,241186.16,64,2024-12-18,2024-12-01,2024-12-18,-17,58666.69,64010.34,-8.348104384385389,1,3,1,Low Activity
+H0133,Hematologist,Oncology,Pune,Maharashtra,Trust/NGO,Low potential,366682.81,97,2024-11-21,2024-12-01,2024-12-01,0,81448.3,73854.08,10.282735903013078,2,1,1,Low Activity
+H0134,General Physician,Respiratory,New Delhi,Delhi,Private,Medium potential,1002351.44,282,2024-12-27,2024-12-01,2024-12-27,-26,229662.0,87237.11,163.26181598633886,3,4,3,High Value / High Growth
+H0135,Neurologist,Neurology,Bilaspur,Chhattisgarh,Private,Low potential,250422.31,98,2024-12-27,2024-12-01,2024-12-27,-26,56489.6,74236.45999999999,-23.905854347041863,1,4,1,Low Activity
+H0136,General Physician,Respiratory,Thiruvananthapuram,Kerala,Corporate Chain,Medium potential,1235711.34,349,2024-12-27,2024-12-01,2024-12-27,-26,255536.17,137955.74,85.2305456808104,3,4,4,High Value / High Growth
+H0137,Hematologist,Oncology,Kochi,Kerala,Private,Medium potential,1317299.38,320,2024-12-15,2024-12-01,2024-12-15,-14,129026.59,295045.47,-56.26891339833145,4,2,3,High Value / Low Engagement
+H0138,Endocrinologist,Diabetes,New Delhi,Delhi,Corporate Chain,Medium potential,983530.67,251,2024-12-16,2024-12-01,2024-12-16,-15,244509.24,120598.34000000001,102.74677080961477,3,2,2,High Value / High Growth
+H0139,Cardiologist,Cardiology,Gurugram,Haryana,Government,High potential,2562707.25,757,2024-12-21,2024-12-01,2024-12-21,-20,427506.97,420126.73,1.7566699457566033,4,3,4,Emerging HCP
+H0140,General Physician,Cardiology,Bilaspur,Chhattisgarh,Private,Medium potential,1070060.33,271,2024-12-20,2024-12-01,2024-12-20,-19,229840.66,191564.86,19.980595606104387,3,3,2,High Value / High Growth
+H0141,General Physician,Diabetes,New Delhi,Delhi,Private,Low potential,310071.4,94,2024-11-02,2024-12-01,2024-12-01,0,80364.45,29998.1,167.89846690290386,1,1,1,Low Activity
+H0142,General Physician,Diabetes,Surat,Gujarat,Private,Medium potential,953884.53,289,2024-12-03,2024-12-01,2024-12-03,-2,176591.49,212439.51,-16.87445993450089,2,1,3,Emerging HCP
+H0143,General Physician,Neurology,Pune,Maharashtra,Trust/NGO,Low potential,259720.77,83,2024-12-12,2024-11-01,2024-12-12,-11,85902.76000000001,49490.649999999994,73.57371543917895,1,2,1,Low Activity
+H0144,General Physician,Respiratory,Howrah,West Bengal,Government,Low potential,198381.02,61,2024-12-27,2024-12-01,2024-12-27,-26,48414.18,34737.89,39.369950218622954,1,4,1,Emerging HCP
+H0145,Neurologist,Neurology,Pune,Maharashtra,Trust/NGO,Low potential,237235.47,92,2024-09-25,2024-12-01,2024-12-01,0,24685.07,15600.51,58.23245522101521,1,1,1,Low Activity
+H0146,Hematologist,Oncology,Gurugram,Haryana,Trust/NGO,Low potential,358532.01,101,2024-11-05,2024-12-01,2024-12-01,0,84938.31999999999,48573.9,74.86411426712698,2,1,2,Low Activity
+H0147,Pulmonologist,Respiratory,New Delhi,Delhi,Government,Low potential,258476.36,89,2024-11-11,2024-12-01,2024-12-01,0,57619.94,65177.85,-11.595825882565928,1,1,1,Low Activity
+H0148,Hematologist,Oncology,Cuttack,Odisha,Private,Low potential,216141.18,78,2024-10-23,2024-12-01,2024-12-01,0,50928.0,23301.76,118.55859814880937,1,1,1,Low Activity
+H0149,Neurologist,Neurology,Kolkata,West Bengal,Government,Medium potential,1008539.2,346,2024-12-04,2024-12-01,2024-12-04,-3,244806.27,220709.38,10.917927457364968,3,1,3,High Value / High Growth
+H0150,General Physician,Respiratory,Bhopal,Madhya Pradesh,Corporate Chain,High potential,2515034.44,717,2024-12-25,2024-12-01,2024-12-25,-24,544065.99,430433.75,26.399472624997458,4,4,4,High Value / High Growth
+H0151,Neurologist,Neurology,Thiruvananthapuram,Kerala,Government,Medium potential,797690.76,267,2024-12-07,2024-12-01,2024-12-07,-6,183558.44,144480.14,27.047523625046313,2,2,2,Low Activity
+H0152,Hematologist,Oncology,Surat,Gujarat,Corporate Chain,Low potential,280289.4,58,2024-10-20,2024-12-01,2024-12-01,0,58944.72,76953.19,-23.401849877828326,1,1,1,Low Activity
+H0153,Pulmonologist,Respiratory,Bhopal,Madhya Pradesh,Government,Medium potential,1066825.31,289,2024-12-12,2024-12-01,2024-12-12,-11,272117.94,235532.13999999998,15.533251640306933,3,2,3,High Value / High Growth
+H0154,Oncologist,Oncology,Bhopal,Madhya Pradesh,Private,Medium potential,999849.1,252,2024-12-23,2024-12-01,2024-12-23,-22,228213.94,274160.02,-16.758854919838427,3,3,2,Low Activity
+H0155,Hematologist,Oncology,New Delhi,Delhi,Private,Low potential,283283.07,77,2024-12-01,2024-12-01,2024-12-01,0,93193.44,31324.87,197.5062306723061,1,1,1,Low Activity
+H0156,General Physician,Respiratory,Bengaluru,Karnataka,Corporate Chain,Medium potential,946989.43,275,2024-12-18,2024-12-01,2024-12-18,-17,123225.11,135447.4,-9.023643126409214,2,3,2,Low Activity
+H0157,General Physician,Respiratory,Raipur,Chhattisgarh,Private,Medium potential,1076329.36,308,2024-11-05,2024-12-01,2024-12-01,0,209467.38,236240.17,-11.332869426905681,3,1,3,High Value / Low Engagement
+H0158,Oncologist,Oncology,Gaya,Bihar,Government,High potential,2804178.85,762,2024-12-27,2024-12-01,2024-12-27,-26,602346.85,430343.13,39.96897080708595,4,4,4,High Value / High Growth
+H0159,Pulmonologist,Respiratory,Howrah,West Bengal,Corporate Chain,Low potential,318229.34,98,2024-11-13,2024-12-01,2024-12-01,0,69510.72,48255.9,44.04605447209564,1,1,1,Low Activity
+H0160,Pulmonologist,Respiratory,Jaipur,Rajasthan,Government,Medium potential,951068.61,267,2024-12-20,2024-12-01,2024-12-20,-19,174812.1,173003.14,1.0456226401439834,2,3,2,Low Activity
+H0161,Hematologist,Oncology,Indore,Madhya Pradesh,Private,Medium potential,935810.66,215,2024-12-17,2024-12-01,2024-12-17,-16,89614.25,98479.77,-9.002376833333388,2,2,2,Low Activity
+H0162,General Physician,Diabetes,Bengaluru,Karnataka,Government,Medium potential,1059862.6,322,2024-12-14,2024-12-01,2024-12-14,-13,274674.12,170196.44,61.38652488853468,3,2,3,High Value / High Growth
+H0163,Oncologist,Oncology,Kochi,Kerala,Government,Medium potential,1013303.4,277,2024-11-15,2024-12-01,2024-12-01,0,163467.61000000002,260234.02000000002,-37.18438119658605,3,1,2,High Value / Low Engagement
+H0164,General Physician,Neurology,Raipur,Chhattisgarh,Private,Low potential,213074.76,73,2024-11-15,2024-12-01,2024-12-01,0,23673.3,37955.17,-37.6282598655203,1,1,1,Low Activity
+H0165,General Physician,Neurology,Cuttack,Odisha,Private,Low potential,262541.57,87,2024-12-03,2024-11-01,2024-12-03,-2,28540.8,21102.75,35.246828020044774,1,1,1,Low Activity
+H0166,Cardiologist,Cardiology,Patna,Bihar,Corporate Chain,Medium potential,950313.26,262,2024-12-26,2024-12-01,2024-12-26,-25,151033.09,219849.16999999998,-31.30149638499886,2,4,2,Low Activity
+H0167,General Physician,Neurology,Mysuru,Karnataka,Trust/NGO,Medium potential,980084.59,308,2024-11-10,2024-12-01,2024-12-01,0,214160.61,203474.03,5.252060914112718,3,1,3,High Value / Low Engagement
+H0168,Neurologist,Neurology,Chennai,Tamil Nadu,Government,Low potential,213214.89,74,2024-12-15,2024-09-01,2024-12-15,-14,21043.93,26562.08,-20.77454024684814,1,2,1,Low Activity
+H0169,Oncologist,Oncology,New Delhi,Delhi,Trust/NGO,Low potential,258330.34,72,2024-12-25,2024-11-01,2024-12-25,-24,26522.82,37662.1,-29.576895605927444,1,4,1,Low Activity
+H0170,General Physician,Diabetes,Howrah,West Bengal,Corporate Chain,Medium potential,932504.4,249,2024-11-11,2024-12-01,2024-12-01,0,171775.97,156603.38,9.688545675067802,2,1,2,Low Activity
+H0171,Endocrinologist,Diabetes,Indore,Madhya Pradesh,Trust/NGO,High potential,2365347.84,601,2024-12-27,2024-12-01,2024-12-27,-26,409101.79000000004,416283.39,-1.7251709226255645,4,4,4,Emerging HCP
+H0172,Neurologist,Neurology,Patna,Bihar,Trust/NGO,Low potential,256806.27,94,2024-10-21,2024-12-01,2024-12-01,0,71365.39,15285.47,366.88384459228274,1,1,1,Low Activity
+H0173,Hematologist,Oncology,Cuttack,Odisha,Government,Low potential,269297.46,64,2024-12-15,2024-12-01,2024-12-15,-14,37290.979999999996,75171.07,-50.39184622488413,1,2,1,Low Activity
+H0174,General Physician,Diabetes,Ludhiana,Punjab,Government,High potential,2301959.67,685,2024-12-16,2024-12-01,2024-12-16,-15,461050.19,428102.89,7.696117164731121,4,2,4,High Value / Low Engagement
+H0175,Hematologist,Oncology,Kolkata,West Bengal,Private,High potential,2488940.18,637,2024-12-27,2024-12-01,2024-12-27,-26,514813.59,508246.03,1.2922009444913907,4,4,4,Emerging HCP
+H0176,General Physician,Diabetes,Amritsar,Punjab,Government,Medium potential,937416.82,242,2024-12-12,2024-12-01,2024-12-12,-11,180313.77,235683.01,-23.493097784180545,2,2,2,Low Activity
+H0177,Cardiologist,Cardiology,Mysuru,Karnataka,Private,Medium potential,915689.31,225,2024-12-15,2024-12-01,2024-12-15,-14,154701.54,238439.27000000002,-35.11910181573698,2,2,2,Low Activity
+H0178,Cardiologist,Cardiology,New Delhi,Delhi,Government,Low potential,261533.05,71,2024-11-21,2024-12-01,2024-12-01,0,64093.0,31638.629999999997,102.57830380139724,1,1,1,Low Activity
+H0179,Oncologist,Oncology,Amritsar,Punjab,Private,Medium potential,1340518.95,292,2024-12-21,2024-12-01,2024-12-21,-20,316642.23,266551.61,18.7920905823829,4,3,3,High Value / High Growth
+H0180,Endocrinologist,Diabetes,Gaya,Bihar,Corporate Chain,Medium potential,1020049.0,307,2024-12-02,2024-12-01,2024-12-02,-1,217414.71,116470.44,86.66943303382385,3,1,3,High Value / High Growth
+H0181,Cardiologist,Cardiology,Patna,Bihar,Private,Medium potential,876524.61,235,2024-12-17,2024-12-01,2024-12-17,-16,195531.27,43686.1,347.5823431251588,2,2,2,Low Activity
+H0182,Cardiologist,Cardiology,Jaipur,Rajasthan,Corporate Chain,High potential,2543837.58,761,2024-12-12,2024-12-01,2024-12-12,-11,531590.56,501482.84,6.0037388318212495,4,2,4,High Value / Low Engagement
+H0183,Endocrinologist,Diabetes,Indore,Madhya Pradesh,Government,High potential,2246361.91,624,2024-12-26,2024-12-01,2024-12-26,-25,362682.49,451488.21,-19.66955460475923,4,4,4,Emerging HCP
+H0184,Cardiologist,Cardiology,New Delhi,Delhi,Government,High potential,2273881.79,652,2024-12-24,2024-12-01,2024-12-24,-23,374975.03,365102.41,2.704068702258102,4,4,4,Emerging HCP
+H0185,General Physician,Neurology,New Delhi,Delhi,Government,Medium potential,746815.95,263,2024-12-23,2024-12-01,2024-12-23,-22,132267.3,135516.55,-2.3976776268286053,2,3,2,Low Activity
+H0186,Endocrinologist,Diabetes,Amritsar,Punjab,Private,Low potential,185058.73,71,2024-11-07,2024-10-01,2024-11-07,24,24817.100000000002,16821.88,47.52869477133353,1,1,1,Low Activity
+H0187,Endocrinologist,Diabetes,Coimbatore,Tamil Nadu,Private,High potential,2262519.82,571,2024-12-16,2024-12-01,2024-12-16,-15,506707.23,349050.05,45.16749961789147,4,2,4,High Value / High Growth
+H0188,General Physician,Neurology,Kanpur,Uttar Pradesh,Private,Low potential,172904.88999999998,62,2024-12-09,2024-11-01,2024-12-09,-8,12556.09,35983.89,-65.10635731712163,1,2,1,Low Activity
+H0189,Endocrinologist,Diabetes,Kanpur,Uttar Pradesh,Corporate Chain,Medium potential,1121102.12,317,2024-12-21,2024-12-01,2024-12-21,-20,183660.79,201364.21,-8.79174109440798,3,3,3,Emerging HCP
+H0190,General Physician,Respiratory,Gurugram,Haryana,Trust/NGO,Medium potential,1013944.16,303,2024-12-12,2024-12-01,2024-12-12,-11,184458.77000000002,265814.96,-30.60632479074917,3,2,3,High Value / Low Engagement
+H0191,Cardiologist,Cardiology,Bhubaneswar,Odisha,Private,High potential,2365013.78,671,2024-12-27,2024-12-01,2024-12-27,-26,496468.52,474140.72000000003,4.709108300168775,4,4,4,Emerging HCP
+H0192,Neurologist,Neurology,Jaipur,Rajasthan,Government,High potential,2111848.57,789,2024-12-14,2024-12-01,2024-12-14,-13,423820.52999999997,356132.02999999997,19.00657461223019,4,2,4,High Value / High Growth
+H0193,General Physician,Respiratory,Indore,Madhya Pradesh,Trust/NGO,Medium potential,1008168.25,341,2024-12-24,2024-12-01,2024-12-24,-23,228444.35,124435.6,83.58440028416305,3,4,3,High Value / High Growth
+H0194,Hematologist,Oncology,Faridabad,Haryana,Government,High potential,2634793.65,654,2024-12-25,2024-12-01,2024-12-25,-24,449407.68,485426.72000000003,-7.420077741085212,4,4,4,Emerging HCP
+H0195,General Physician,Respiratory,New Delhi,Delhi,Private,Low potential,336492.06,101,2024-09-14,2024-10-01,2024-10-01,61,53728.82,47191.840000000004,13.851928638510376,2,1,2,Low Activity
+H0196,Oncologist,Oncology,New Delhi,Delhi,Government,Low potential,354211.45,89,2024-12-21,2024-11-01,2024-12-21,-20,68166.56999999999,64304.259999999995,6.006305025514636,2,3,1,Low Activity
+H0197,General Physician,Diabetes,Kochi,Kerala,Corporate Chain,Low potential,278406.65,86,2024-12-17,2024-12-01,2024-12-17,-16,51911.3,62525.100000000006,-16.97526273448583,1,2,1,Low Activity
+H0198,General Physician,Diabetes,Faridabad,Haryana,Private,High potential,2203461.49,599,2024-12-25,2024-12-01,2024-12-25,-24,408643.05,339575.67,20.339319362897818,4,4,4,High Value / High Growth
+H0199,General Physician,Diabetes,Ludhiana,Punjab,Trust/NGO,Low potential,224889.29,88,2024-12-17,2024-10-01,2024-12-17,-16,6460.02,38827.34,-83.36218757195316,1,2,1,Low Activity
+H0200,Oncologist,Oncology,New Delhi,Delhi,Government,Low potential,329055.01,89,2024-10-26,2024-09-01,2024-10-26,36,15588.130000000001,53650.39,-70.94498287896882,1,1,1,Low Activity
+H0201,General Physician,Diabetes,Mysuru,Karnataka,Private,Medium potential,903608.6,281,2024-10-17,2024-12-01,2024-12-01,0,147670.5,162634.03,-9.20073738565047,2,1,2,Low Activity
+H0202,General Physician,Respiratory,Surat,Gujarat,Private,Low potential,271166.72,98,2024-08-08,2024-12-01,2024-12-01,0,70638.69,24465.780000000002,188.72445513693,1,1,1,Low Activity
+H0203,General Physician,Respiratory,Lucknow,Uttar Pradesh,Private,High potential,2436689.84,682,2024-12-19,2024-12-01,2024-12-19,-18,382544.68,425599.37,-10.11624852734157,4,3,4,Emerging HCP
+H0204,Endocrinologist,Diabetes,Jaipur,Rajasthan,Private,High potential,2227286.34,614,2024-12-27,2024-12-01,2024-12-27,-26,525864.89,320176.36,64.24226010939722,4,4,4,High Value / High Growth
+H0205,General Physician,Diabetes,Bilaspur,Chhattisgarh,Trust/NGO,High potential,2316762.07,633,2024-12-27,2024-12-01,2024-12-27,-26,542371.46,461246.27,17.588259304514256,4,4,4,High Value / High Growth
+H0206,Cardiologist,Cardiology,Lucknow,Uttar Pradesh,Government,Low potential,369625.78,105,2024-11-24,2024-12-01,2024-12-01,0,67455.73,51996.93,29.730216764720524,2,1,2,Low Activity
+H0207,Hematologist,Oncology,Raipur,Chhattisgarh,Private,Low potential,243714.6,42,2024-12-04,2024-12-01,2024-12-04,-3,43057.29,51001.58,-15.576556647852872,1,1,1,Low Activity
+H0208,General Physician,Cardiology,Bilaspur,Chhattisgarh,Private,Low potential,216588.29,50,2024-11-02,2024-12-01,2024-12-01,0,30252.77,43369.71,-30.244472467074367,1,1,1,Low Activity
+H0209,General Physician,Cardiology,Surat,Gujarat,Private,High potential,2127440.36,620,2024-12-18,2024-12-01,2024-12-18,-17,329638.72,335174.86,-1.6517169575307689,4,3,4,Emerging HCP
+H0210,General Physician,Respiratory,Bilaspur,Chhattisgarh,Trust/NGO,High potential,2324606.08,650,2024-12-27,2024-12-01,2024-12-27,-26,428618.26,358225.82,19.650297680943265,4,4,4,High Value / High Growth
+H0211,Neurologist,Neurology,Bengaluru,Karnataka,Government,Low potential,277891.98,85,2024-12-18,2024-12-01,2024-12-18,-17,62536.990000000005,42211.45,48.15172186693423,1,3,1,Emerging HCP
+H0212,General Physician,Respiratory,Thiruvananthapuram,Kerala,Corporate Chain,Medium potential,901948.85,281,2024-12-25,2024-12-01,2024-12-25,-24,217616.62,158804.55,37.03424744442147,2,4,2,Emerging HCP
+H0213,General Physician,Respiratory,Chennai,Tamil Nadu,Private,Medium potential,836059.61,272,2024-12-10,2024-12-01,2024-12-10,-9,154976.95,75995.01000000001,103.93042911633276,2,2,2,Low Activity
+H0214,Pulmonologist,Respiratory,Pune,Maharashtra,Private,High potential,2432911.57,696,2024-12-20,2024-12-01,2024-12-20,-19,462636.8,379745.5,21.82811909555215,4,3,4,High Value / High Growth
+H0215,Neurologist,Neurology,Kochi,Kerala,Government,High potential,2049067.86,688,2024-12-25,2024-12-01,2024-12-25,-24,433364.70999999996,329121.79,31.67305330953626,4,4,4,High Value / High Growth
+H0216,Cardiologist,Cardiology,Ahmedabad,Gujarat,Corporate Chain,Medium potential,1037261.89,315,2024-12-17,2024-12-01,2024-12-17,-16,150760.7,301432.88,-49.985316797557054,3,2,3,High Value / Low Engagement
+H0217,Cardiologist,Cardiology,Ludhiana,Punjab,Corporate Chain,Medium potential,949301.47,283,2024-12-27,2024-12-01,2024-12-27,-26,180131.05,183339.88,-1.750208410739669,2,4,3,Emerging HCP
+H0218,Pulmonologist,Respiratory,Mysuru,Karnataka,Private,Medium potential,1051034.18,304,2024-12-20,2024-12-01,2024-12-20,-19,271157.38,200086.46,35.520104658756026,3,3,3,High Value / High Growth
+H0219,Oncologist,Oncology,Bengaluru,Karnataka,Private,Low potential,307935.67,83,2024-10-21,2024-11-01,2024-11-01,30,37567.63,93275.47,-59.72399817443964,1,1,1,Low Activity
+H0220,Oncologist,Oncology,Pune,Maharashtra,Government,Medium potential,1133507.31,256,2024-12-09,2024-12-01,2024-12-09,-8,259323.05000000002,152451.7,70.1017764970807,3,2,2,High Value / High Growth
+H0221,Endocrinologist,Diabetes,Chennai,Tamil Nadu,Corporate Chain,Low potential,240345.41999999998,71,2024-11-07,2024-12-01,2024-12-01,0,39022.31,32281.89,20.879880329187657,1,1,1,Low Activity
+H0222,Pulmonologist,Respiratory,Kanpur,Uttar Pradesh,Corporate Chain,High potential,2304148.36,644,2024-12-25,2024-12-01,2024-12-25,-24,476944.83999999997,316975.98,50.467186819644816,4,4,4,High Value / High Growth
+H0223,Neurologist,Neurology,Faridabad,Haryana,Private,High potential,2099966.0,678,2024-12-22,2024-12-01,2024-12-22,-21,319456.89,430042.75,-25.715085302565846,4,3,4,Emerging HCP
+H0224,General Physician,Cardiology,Indore,Madhya Pradesh,Private,High potential,2373240.6,700,2024-12-24,2024-12-01,2024-12-24,-23,425122.87,437313.17,-2.7875446787939153,4,4,4,Emerging HCP
+H0225,Pulmonologist,Respiratory,Bengaluru,Karnataka,Corporate Chain,Medium potential,780921.66,304,2024-12-26,2024-12-01,2024-12-26,-25,129372.93,238304.78999999998,-45.711149994089496,2,4,3,Emerging HCP
+H0226,Hematologist,Oncology,Jodhpur,Rajasthan,Private,Medium potential,1099555.2,271,2024-12-09,2024-12-01,2024-12-09,-8,188814.57,201545.63,-6.31671349063733,3,2,2,High Value / Low Engagement
+H0227,Cardiologist,Cardiology,Jaipur,Rajasthan,Government,Low potential,248428.59,77,2024-12-27,2024-12-01,2024-12-27,-26,36090.45,51927.69,-30.49864147625285,1,4,1,Low Activity
+H0228,Pulmonologist,Respiratory,Ludhiana,Punjab,Government,Medium potential,890519.23,268,2024-11-18,2024-11-01,2024-11-18,13,124769.61,171310.3,-27.16747912997642,2,1,2,Low Activity
+H0229,Neurologist,Neurology,Indore,Madhya Pradesh,Private,Medium potential,874425.85,290,2024-12-20,2024-12-01,2024-12-20,-19,156061.55,180686.42,-13.628511760872799,2,3,3,Emerging HCP
+H0230,Oncologist,Oncology,Mysuru,Karnataka,Corporate Chain,Low potential,313505.46,98,2024-10-20,2024-10-01,2024-10-20,42,56497.25,89439.90000000001,-36.8321632738856,1,1,1,Low Activity
+H0231,General Physician,Respiratory,Thiruvananthapuram,Kerala,Government,Medium potential,1035201.7,277,2024-12-25,2024-12-01,2024-12-25,-24,209719.13,178033.37,17.797652204190715,3,4,2,High Value / High Growth
+H0232,Endocrinologist,Diabetes,Gurugram,Haryana,Corporate Chain,Low potential,399551.58,111,2024-08-18,2024-10-01,2024-10-01,61,104260.78,51728.759999999995,101.55283057239339,2,1,2,Low Activity
+H0233,Neurologist,Neurology,Bhubaneswar,Odisha,Private,Medium potential,934723.75,283,2024-12-23,2024-12-01,2024-12-23,-22,229389.74,89406.13,156.57048347803442,2,3,3,Emerging HCP
+H0234,General Physician,Diabetes,Kolkata,West Bengal,Government,Low potential,274928.77999999997,72,2024-11-22,2024-12-01,2024-12-01,0,45161.84,78574.99,-42.52389978032451,1,1,1,Low Activity
+H0235,Oncologist,Oncology,Cuttack,Odisha,Government,Medium potential,1175902.46,333,2024-12-13,2024-12-01,2024-12-13,-12,212331.30000000002,130935.95,62.1642490087711,3,2,3,High Value / High Growth
+H0236,General Physician,Neurology,Bengaluru,Karnataka,Government,High potential,1955678.82,641,2024-12-22,2024-12-01,2024-12-22,-21,404039.57,297272.62,35.9155007279177,4,3,4,High Value / High Growth
+H0237,Cardiologist,Cardiology,Raipur,Chhattisgarh,Private,Medium potential,1085333.44,304,2024-12-21,2024-12-01,2024-12-21,-20,169185.59,159849.56,5.840510289799984,3,3,3,Emerging HCP
+H0238,General Physician,Cardiology,Howrah,West Bengal,Government,Low potential,292106.81,101,2024-08-27,2024-12-01,2024-12-01,0,34402.48,56404.16,-39.007193795634926,1,1,2,Low Activity
+H0239,Endocrinologist,Diabetes,Indore,Madhya Pradesh,Private,High potential,2211662.28,665,2024-12-21,2024-12-01,2024-12-21,-20,304145.61,531470.81,-42.77284767530319,4,3,4,Emerging HCP
+H0240,General Physician,Respiratory,Bilaspur,Chhattisgarh,Government,Medium potential,857855.69,226,2024-12-22,2024-12-01,2024-12-22,-21,247031.85,129819.15,90.28922158248612,2,3,2,Emerging HCP
+H0241,Cardiologist,Cardiology,Jodhpur,Rajasthan,Trust/NGO,Low potential,310176.12,91,2024-11-17,2024-12-01,2024-12-01,0,56513.91,64304.02,-12.1144992179338,1,1,1,Low Activity
+H0242,General Physician,Respiratory,Bengaluru,Karnataka,Private,Medium potential,1029157.92,357,2024-12-26,2024-12-01,2024-12-26,-25,213898.16999999998,171041.71,25.056145661780388,3,4,4,High Value / High Growth
+H0243,General Physician,Neurology,New Delhi,Delhi,Corporate Chain,Medium potential,856205.89,280,2024-12-24,2024-12-01,2024-12-24,-23,193524.17,107325.94,80.31444215629513,2,4,2,Emerging HCP
+H0244,Neurologist,Neurology,Kochi,Kerala,Government,High potential,1830874.02,652,2024-12-27,2024-12-01,2024-12-27,-26,289164.41,339563.37,-14.842284077932204,4,4,4,Emerging HCP
+H0245,General Physician,Respiratory,Bhubaneswar,Odisha,Corporate Chain,Medium potential,1096603.56,279,2024-12-24,2024-12-01,2024-12-24,-23,142418.05,249330.65,-42.87984650102184,3,4,2,Low Activity
+H0246,General Physician,Diabetes,Ahmedabad,Gujarat,Trust/NGO,Medium potential,1037495.03,274,2024-12-20,2024-12-01,2024-12-20,-19,292818.07,145607.08,101.10153297490756,3,3,2,High Value / High Growth
+H0247,Oncologist,Oncology,Pune,Maharashtra,Private,High potential,2949322.51,789,2024-12-19,2024-12-01,2024-12-19,-18,669095.38,572845.87,16.801990734436124,4,3,4,High Value / High Growth
+H0248,Hematologist,Oncology,Kanpur,Uttar Pradesh,Government,Medium potential,1105292.57,297,2024-12-22,2024-12-01,2024-12-22,-21,209793.28,104473.51000000001,100.81002351696614,3,3,3,High Value / High Growth
+H0249,General Physician,Cardiology,Jodhpur,Rajasthan,Corporate Chain,Medium potential,1059630.1199999999,318,2024-12-06,2024-12-01,2024-12-06,-5,189799.82,135460.93,40.114068314753204,3,2,3,High Value / High Growth
+H0250,General Physician,Respiratory,Gurugram,Haryana,Corporate Chain,Medium potential,751358.83,263,2024-12-27,2024-12-01,2024-12-27,-26,132077.63999999998,129462.75,2.0198010624677636,2,4,2,Low Activity
+H0251,General Physician,Respiratory,Kochi,Kerala,Private,Low potential,205846.58000000002,77,2024-12-15,2024-12-01,2024-12-15,-14,56884.15,11873.490000000002,379.08534053593337,1,2,1,Low Activity
+H0252,General Physician,Diabetes,Surat,Gujarat,Private,Medium potential,1225710.47,288,2024-12-16,2024-12-01,2024-12-16,-15,178542.0,91591.01000000001,94.93397878241542,3,2,3,High Value / High Growth
+H0253,Endocrinologist,Diabetes,Ahmedabad,Gujarat,Private,High potential,2353168.41,656,2024-12-25,2024-12-01,2024-12-25,-24,461346.04,415917.3,10.922541572567429,4,4,4,High Value / High Growth
+H0254,Neurologist,Neurology,Coimbatore,Tamil Nadu,Trust/NGO,Medium potential,809414.84,284,2024-12-12,2024-12-01,2024-12-12,-11,203433.97,100947.67,101.52418574891327,2,2,3,Emerging HCP
+H0255,Cardiologist,Cardiology,Raipur,Chhattisgarh,Government,Low potential,160942.29,47,2024-12-23,2024-11-01,2024-12-23,-22,27872.84,29063.0,-4.095103740150707,1,3,1,Low Activity
+H0256,General Physician,Neurology,Jaipur,Rajasthan,Trust/NGO,High potential,2224012.19,790,2024-12-06,2024-12-01,2024-12-06,-5,489706.32,380080.83,28.842678016673453,4,2,4,High Value / High Growth
+H0257,Neurologist,Neurology,Jaipur,Rajasthan,Private,Medium potential,794892.28,227,2024-12-06,2024-12-01,2024-12-06,-5,144156.78,112155.70999999999,28.53271581090255,2,2,2,Low Activity
+H0258,General Physician,Neurology,Jaipur,Rajasthan,Private,Low potential,231785.85,83,2024-11-24,2024-12-01,2024-12-01,0,62770.35,36988.17,69.70385396195594,1,1,1,Low Activity
+H0259,General Physician,Respiratory,Gaya,Bihar,Private,Medium potential,1011810.1699999999,262,2024-12-09,2024-12-01,2024-12-09,-8,170394.68,126713.84,34.47203557243629,3,2,2,High Value / High Growth
+H0260,Oncologist,Oncology,Surat,Gujarat,Private,Medium potential,1114602.99,289,2024-12-21,2024-12-01,2024-12-21,-20,215592.81,104033.58,107.23386621896506,3,3,3,High Value / High Growth
+H0261,Endocrinologist,Diabetes,Patna,Bihar,Corporate Chain,Medium potential,1155885.45,323,2024-12-26,2024-12-01,2024-12-26,-25,229599.38,119217.65,92.58841287342942,3,4,3,High Value / High Growth
+H0262,Cardiologist,Cardiology,Faridabad,Haryana,Corporate Chain,Medium potential,1015832.91,314,2024-12-21,2024-12-01,2024-12-21,-20,244910.24,70883.58,245.5105399586194,3,3,3,High Value / High Growth
+H0263,General Physician,Neurology,Ahmedabad,Gujarat,Private,Medium potential,965578.88,304,2024-12-18,2024-12-01,2024-12-18,-17,161175.57,162086.32,-0.5618919597903141,2,3,3,Emerging HCP
+H0264,Neurologist,Neurology,Howrah,West Bengal,Corporate Chain,Low potential,270362.96,73,2024-12-08,2024-12-01,2024-12-08,-7,61174.2,39681.25,54.16399432981571,1,2,1,Low Activity
+H0265,General Physician,Neurology,New Delhi,Delhi,Trust/NGO,Low potential,199773.75,73,2024-11-25,2024-12-01,2024-12-01,0,53102.5,24011.24,121.156841545876,1,1,1,Low Activity
+H0266,Pulmonologist,Respiratory,Cuttack,Odisha,Government,Medium potential,1010377.17,333,2024-12-16,2024-12-01,2024-12-16,-15,177480.03999999998,157978.18,12.344654179456926,3,2,3,High Value / High Growth
+H0267,General Physician,Diabetes,Chennai,Tamil Nadu,Private,Medium potential,1132832.9,306,2024-12-25,2024-12-01,2024-12-25,-24,268428.45,224225.82,19.713443349209292,3,4,3,High Value / High Growth
+H0268,Cardiologist,Cardiology,Mysuru,Karnataka,Corporate Chain,High potential,2510588.13,699,2024-12-20,2024-12-01,2024-12-20,-19,459810.33,402281.51,14.300637382016392,4,3,4,High Value / High Growth
+H0269,Neurologist,Neurology,New Delhi,Delhi,Private,Low potential,274008.99,90,2024-12-10,2024-11-01,2024-12-10,-9,40909.95,47605.73,-14.06507157856839,1,2,1,Low Activity
+H0270,Hematologist,Oncology,Bengaluru,Karnataka,Trust/NGO,High potential,2874240.2399999998,722,2024-11-23,2024-12-01,2024-12-01,0,522538.57999999996,414182.38,26.161470219954783,4,1,4,High Value / High Growth
+H0271,Oncologist,Oncology,Howrah,West Bengal,Government,High potential,2700394.59,708,2024-12-24,2024-12-01,2024-12-24,-23,394597.42,511303.0,-22.82513108665508,4,4,4,Emerging HCP
+H0272,Oncologist,Oncology,Howrah,West Bengal,Corporate Chain,Low potential,347740.8,64,2024-12-10,2024-12-01,2024-12-10,-9,45867.86,92231.55,-50.26879630668681,2,2,1,Low Activity
+H0273,Pulmonologist,Respiratory,Lucknow,Uttar Pradesh,Trust/NGO,Medium potential,964055.35,315,2024-12-04,2024-12-01,2024-12-04,-3,85830.23,169772.65,-49.44401822083828,2,1,3,Emerging HCP
+H0274,General Physician,Diabetes,Mysuru,Karnataka,Government,Low potential,370274.44,93,2024-12-20,2024-12-01,2024-12-20,-19,73306.32,65913.49,11.215958978958634,2,3,1,Emerging HCP
+H0275,Endocrinologist,Diabetes,Gurugram,Haryana,Private,Medium potential,1055384.55,257,2024-12-12,2024-12-01,2024-12-12,-11,128468.40000000001,108278.47,18.646301522361746,3,2,2,High Value / High Growth
+H0276,General Physician,Cardiology,Jodhpur,Rajasthan,Corporate Chain,Low potential,346407.72,82,2024-08-22,2024-12-01,2024-12-01,0,85372.84,68833.4,24.028218858867938,2,1,1,Low Activity
+H0277,Hematologist,Oncology,Ludhiana,Punjab,Trust/NGO,Low potential,303154.77,76,2024-11-14,2024-12-01,2024-12-01,0,40218.78,47970.25,-16.158910991708407,1,1,1,Low Activity
+H0278,Cardiologist,Cardiology,Chennai,Tamil Nadu,Private,High potential,2340744.03,729,2024-12-23,2024-12-01,2024-12-23,-22,352753.22,462447.27,-23.72033680726454,4,3,4,Emerging HCP
+H0279,General Physician,Cardiology,Jaipur,Rajasthan,Trust/NGO,Low potential,199080.04,62,2024-12-03,2024-11-01,2024-12-03,-2,24363.2,33431.729999999996,-27.125518182875958,1,1,1,Low Activity
+H0280,General Physician,Neurology,Lucknow,Uttar Pradesh,Private,Low potential,224474.0,81,2024-08-05,2024-09-01,2024-09-01,91,18511.15,64953.52,-71.50092866406625,1,1,1,Low Activity
+H0281,General Physician,Respiratory,Gurugram,Haryana,Corporate Chain,High potential,2256582.15,612,2024-12-26,2024-12-01,2024-12-26,-25,473221.25,366024.55,29.286751394134633,4,4,4,High Value / High Growth
+H0282,General Physician,Diabetes,Raipur,Chhattisgarh,Government,Medium potential,1026761.04,299,2024-11-20,2024-12-01,2024-12-01,0,162259.32,258644.75,-37.26556599351041,3,1,3,High Value / Low Engagement
+H0283,Cardiologist,Cardiology,Bhubaneswar,Odisha,Government,Medium potential,957062.38,281,2024-12-13,2024-12-01,2024-12-13,-12,233621.56,132554.61,76.24551873375059,2,2,2,Low Activity
+H0284,General Physician,Neurology,Ludhiana,Punjab,Trust/NGO,Low potential,284096.18,95,2024-11-15,2024-12-01,2024-12-01,0,50384.490000000005,51351.54,-1.8831957133125814,1,1,1,Low Activity
+H0285,Cardiologist,Cardiology,New Delhi,Delhi,Corporate Chain,Low potential,408655.56,112,2024-11-18,2024-11-01,2024-11-18,13,41394.6,68203.5,-39.307220303943346,2,1,2,Low Activity
+H0286,Hematologist,Oncology,Patna,Bihar,Government,Medium potential,946334.57,239,2024-12-20,2024-12-01,2024-12-20,-19,168074.02,202203.03,-16.87858485602318,2,3,2,Low Activity
+H0287,General Physician,Neurology,Jodhpur,Rajasthan,Trust/NGO,Medium potential,833353.4,306,2024-12-17,2024-12-01,2024-12-17,-16,101303.89,140534.08000000002,-27.9150722728608,2,3,3,Emerging HCP
+H0288,General Physician,Cardiology,Jodhpur,Rajasthan,Private,Medium potential,1068187.69,316,2024-10-20,2024-12-01,2024-12-01,0,256754.88,94452.62,171.83457695509136,3,1,3,High Value / High Growth
+H0289,General Physician,Diabetes,Mysuru,Karnataka,Government,High potential,2501184.95,669,2024-12-16,2024-12-01,2024-12-16,-15,345717.41,550137.93,-37.15804870971177,4,2,4,High Value / Low Engagement
+H0290,Pulmonologist,Respiratory,Gurugram,Haryana,Corporate Chain,Medium potential,976018.4,248,2024-12-11,2024-12-01,2024-12-11,-10,214798.88999999998,141575.26,51.720639608926,2,2,2,Low Activity
+H0291,Hematologist,Oncology,Kanpur,Uttar Pradesh,Trust/NGO,Medium potential,1094132.17,276,2024-12-27,2024-12-01,2024-12-27,-26,248497.81,193685.2,28.299844283404195,3,4,2,High Value / High Growth
+H0292,Hematologist,Oncology,Kochi,Kerala,Corporate Chain,Low potential,310843.41,58,2024-09-21,2024-12-01,2024-12-01,0,39315.72,69244.14,-43.221592469774336,1,1,1,Low Activity
+H0293,Neurologist,Neurology,Faridabad,Haryana,Trust/NGO,Medium potential,1133632.79,391,2024-12-20,2024-12-01,2024-12-20,-19,258563.04,156981.75,64.70898050251064,3,3,4,High Value / High Growth
+H0294,Cardiologist,Cardiology,Jaipur,Rajasthan,Private,Low potential,289496.54,82,2024-11-11,2024-12-01,2024-12-01,0,53578.66,74173.05,-27.76532716397667,1,1,1,Low Activity
+H0295,Endocrinologist,Diabetes,Ahmedabad,Gujarat,Government,Medium potential,1240322.44,336,2024-12-17,2024-12-01,2024-12-17,-16,147106.5,259805.25,-43.378164990892216,4,3,3,Emerging HCP
+H0296,Oncologist,Oncology,Cuttack,Odisha,Private,Low potential,190556.72,66,2024-12-13,2024-12-01,2024-12-13,-12,24267.75,23828.949999999997,1.8414575547810665,1,2,1,Low Activity
+H0297,Cardiologist,Cardiology,Bhopal,Madhya Pradesh,Private,Medium potential,1059116.77,251,2024-12-24,2024-12-01,2024-12-24,-23,190124.75,164870.75,15.317453217141306,3,4,2,High Value / High Growth
+H0298,Endocrinologist,Diabetes,Bhubaneswar,Odisha,Private,Medium potential,1198464.22,281,2024-12-16,2024-12-01,2024-12-16,-15,160534.37,255577.28,-37.187542648548416,3,2,2,High Value / Low Engagement
+H0299,General Physician,Cardiology,New Delhi,Delhi,Government,Medium potential,918879.95,268,2024-12-11,2024-12-01,2024-12-11,-10,186920.84,161816.99,15.513729429771253,2,2,2,Low Activity
+H0300,General Physician,Diabetes,Jodhpur,Rajasthan,Government,Low potential,321572.25,89,2024-12-21,2024-11-01,2024-12-21,-20,58188.020000000004,45233.72,28.638590856555687,1,3,1,Emerging HCP
+H0301,Oncologist,Oncology,Bhopal,Madhya Pradesh,Corporate Chain,High potential,2708160.05,696,2024-12-27,2024-12-01,2024-12-27,-26,520729.93,496220.02,4.9393230849492875,4,4,4,Emerging HCP
+H0302,Cardiologist,Cardiology,Cuttack,Odisha,Government,Medium potential,1110938.13,315,2024-12-24,2024-12-01,2024-12-24,-23,223552.3,236912.9,-5.639456526005973,3,4,3,Emerging HCP
+H0303,Oncologist,Oncology,Raipur,Chhattisgarh,Government,Medium potential,934869.1900000001,272,2024-12-26,2024-12-01,2024-12-26,-25,187123.4,212232.34000000003,-11.83087365478797,2,4,2,Low Activity
+H0304,Endocrinologist,Diabetes,Ludhiana,Punjab,Corporate Chain,Medium potential,869543.25,307,2024-12-27,2024-12-01,2024-12-27,-26,197330.33,180884.65,9.091805191872275,2,4,3,Emerging HCP
+H0305,Cardiologist,Cardiology,Bengaluru,Karnataka,Private,Medium potential,1170150.75,306,2024-12-19,2024-11-01,2024-12-19,-18,101699.12999999999,210546.43,-51.69752818891301,3,3,3,Emerging HCP
+H0306,General Physician,Neurology,Kolkata,West Bengal,Corporate Chain,Low potential,291778.53,94,2024-12-24,2024-12-01,2024-12-24,-23,70976.12,33086.03,114.51990462439886,1,4,1,Emerging HCP
+H0307,Pulmonologist,Respiratory,Jaipur,Rajasthan,Government,Medium potential,1055848.37,321,2024-11-24,2024-12-01,2024-12-01,0,243144.99,170691.85,42.44674833625623,3,1,3,High Value / High Growth
+H0308,Endocrinologist,Diabetes,Faridabad,Haryana,Trust/NGO,Low potential,302992.82,72,2024-12-20,2024-11-01,2024-12-20,-19,90380.42,33631.35,168.738602524133,1,3,1,Emerging HCP
+H0309,General Physician,Respiratory,Faridabad,Haryana,Government,Medium potential,981342.75,283,2024-12-25,2024-12-01,2024-12-25,-24,120368.51000000001,160146.36,-24.838435291317253,3,4,3,Emerging HCP
+H0310,Oncologist,Oncology,Cuttack,Odisha,Private,Low potential,315026.79,101,2024-07-11,2024-12-01,2024-12-01,0,59322.1,49631.1,19.52606329499044,1,1,2,Low Activity
+H0311,Neurologist,Neurology,Indore,Madhya Pradesh,Private,Medium potential,833653.3,304,2024-11-20,2024-12-01,2024-12-01,0,164555.28,165428.62,-0.5279255790201215,2,1,3,Emerging HCP
+H0312,General Physician,Cardiology,Lucknow,Uttar Pradesh,Private,Medium potential,1152724.81,374,2024-12-08,2024-12-01,2024-12-08,-7,216984.35,208959.23,3.8405195118684134,3,2,4,High Value / Low Engagement
+H0313,Endocrinologist,Diabetes,Mumbai,Maharashtra,Government,High potential,2505004.21,643,2024-12-17,2024-12-01,2024-12-17,-16,550473.85,364066.77,51.201344192989644,4,3,4,High Value / High Growth
+H0314,General Physician,Respiratory,New Delhi,Delhi,Private,Medium potential,881422.46,277,2024-12-27,2024-12-01,2024-12-27,-26,188757.49,147034.15,28.376632231355774,2,4,2,Emerging HCP
+H0315,Endocrinologist,Diabetes,Howrah,West Bengal,Corporate Chain,Low potential,167339.12,74,2024-12-22,2024-10-01,2024-12-22,-21,17116.39,45651.1,-62.506073238103795,1,3,1,Low Activity
+H0316,General Physician,Respiratory,Thiruvananthapuram,Kerala,Private,Medium potential,1016112.4,281,2024-11-27,2024-12-01,2024-12-01,0,184203.27,271980.35,-32.27331680395293,3,1,2,High Value / Low Engagement
+H0317,Cardiologist,Cardiology,Kolkata,West Bengal,Private,Medium potential,1035139.52,278,2024-12-20,2024-12-01,2024-12-20,-19,148584.92,180011.27,-17.457990269164803,3,3,2,Low Activity
+H0318,General Physician,Respiratory,Kochi,Kerala,Government,High potential,2443514.49,650,2024-12-15,2024-12-01,2024-12-15,-14,443742.84,392045.88,13.186456646349662,4,2,4,High Value / High Growth
+H0319,General Physician,Cardiology,Surat,Gujarat,Government,Medium potential,868291.21,270,2024-12-18,2024-12-01,2024-12-18,-17,238324.28,164733.81,44.67235353811097,2,3,2,Emerging HCP
+H0320,General Physician,Cardiology,Jodhpur,Rajasthan,Corporate Chain,Low potential,205335.04,68,2024-12-22,2024-12-01,2024-12-22,-21,25729.94,34986.81,-26.458170950709707,1,3,1,Low Activity
+H0321,Cardiologist,Cardiology,Patna,Bihar,Government,Low potential,309052.51,90,2024-12-19,2024-12-01,2024-12-19,-18,83869.77,63126.56,32.85971863507216,1,3,1,Emerging HCP
+H0322,General Physician,Respiratory,Kochi,Kerala,Private,High potential,2155224.56,646,2024-12-25,2024-12-01,2024-12-25,-24,340840.13,334337.12,1.9450457669791525,4,4,4,Emerging HCP
+H0323,General Physician,Neurology,New Delhi,Delhi,Trust/NGO,Medium potential,834400.75,260,2024-12-14,2024-12-01,2024-12-14,-13,197068.15,112732.82,74.8099178216246,2,2,2,Low Activity
+H0324,Oncologist,Oncology,Thiruvananthapuram,Kerala,Corporate Chain,Medium potential,961622.02,258,2024-12-27,2024-12-01,2024-12-27,-26,145369.15,164081.41,-11.404253534876382,2,4,2,Low Activity
+H0325,Cardiologist,Cardiology,Kolkata,West Bengal,Trust/NGO,Medium potential,854521.58,280,2024-12-24,2024-11-01,2024-12-24,-23,108225.52,177384.45,-38.98815820665228,2,4,2,Low Activity
+H0326,General Physician,Neurology,Lucknow,Uttar Pradesh,Private,Medium potential,882415.5,271,2024-12-19,2024-12-01,2024-12-19,-18,197983.61,140617.13,40.79622447137129,2,3,2,Emerging HCP
+H0327,Pulmonologist,Respiratory,Howrah,West Bengal,Private,Medium potential,968857.71,263,2024-12-22,2024-12-01,2024-12-22,-21,242324.58,182343.9,32.894261886468364,2,3,2,Emerging HCP
+H0328,General Physician,Cardiology,Amritsar,Punjab,Corporate Chain,High potential,2283546.25,645,2024-12-18,2024-12-01,2024-12-18,-17,423374.48,385628.77,9.788094907960307,4,3,4,Emerging HCP
+H0329,General Physician,Neurology,Kanpur,Uttar Pradesh,Private,High potential,2180728.38,707,2024-12-18,2024-12-01,2024-12-18,-17,453357.56,326513.12,38.84819084758371,4,3,4,High Value / High Growth
+H0330,General Physician,Cardiology,Bhubaneswar,Odisha,Private,Low potential,262815.04,81,2024-12-15,2024-12-01,2024-12-15,-14,35690.86,36147.8,-1.2640879942901153,1,2,1,Low Activity
+H0331,General Physician,Respiratory,Raipur,Chhattisgarh,Private,Medium potential,956182.24,258,2024-12-25,2024-12-01,2024-12-25,-24,100810.76000000001,159715.9,-36.881199680182114,2,4,2,Low Activity
+H0332,Oncologist,Oncology,Bilaspur,Chhattisgarh,Corporate Chain,Medium potential,912439.1,226,2024-12-21,2024-12-01,2024-12-21,-20,158179.19,199351.85,-20.653262059017763,2,3,2,Low Activity
+H0333,Pulmonologist,Respiratory,Surat,Gujarat,Government,Medium potential,1026094.86,268,2024-12-18,2024-12-01,2024-12-18,-17,194634.22,221147.68,-11.989029231507196,3,3,2,Low Activity
+H0334,Endocrinologist,Diabetes,Howrah,West Bengal,Government,Medium potential,1328851.43,353,2024-12-20,2024-12-01,2024-12-20,-19,326509.26,140571.64,132.27249820803112,4,3,4,High Value / High Growth
+H0335,Oncologist,Oncology,Jodhpur,Rajasthan,Government,Medium potential,1213295.19,324,2024-12-25,2024-12-01,2024-12-25,-24,401213.81,234489.94,71.10064934981858,3,4,3,High Value / High Growth
+H0336,General Physician,Neurology,Raipur,Chhattisgarh,Government,High potential,2261282.34,752,2024-12-24,2024-12-01,2024-12-24,-23,395620.70999999996,397649.29,-0.5101429956029888,4,4,4,Emerging HCP
+H0337,Endocrinologist,Diabetes,Gurugram,Haryana,Corporate Chain,Medium potential,1074987.75,285,2024-12-21,2024-12-01,2024-12-21,-20,136651.6,190343.58000000002,-28.2079280005136,3,3,3,Emerging HCP
+H0338,General Physician,Cardiology,Howrah,West Bengal,Government,Medium potential,943059.3099999999,299,2024-12-07,2024-12-01,2024-12-07,-6,177398.66,134825.73,31.576265153543012,2,2,3,Emerging HCP
+H0339,General Physician,Neurology,Bilaspur,Chhattisgarh,Private,Medium potential,906497.4,345,2024-12-23,2024-12-01,2024-12-23,-22,173376.44,72961.26,137.62807824316633,2,3,3,Emerging HCP
+H0340,Cardiologist,Cardiology,Mysuru,Karnataka,Corporate Chain,Low potential,262678.32,85,2024-10-15,2024-12-01,2024-12-01,0,42919.09,33848.79,26.796526552352375,1,1,1,Low Activity
+H0341,Pulmonologist,Respiratory,Mysuru,Karnataka,Private,Low potential,291896.21,83,2024-11-19,2024-11-01,2024-11-19,12,38414.45,55064.340000000004,-30.237155298692414,1,1,1,Low Activity
+H0342,Cardiologist,Cardiology,Coimbatore,Tamil Nadu,Corporate Chain,High potential,2335539.59,746,2024-12-22,2024-12-01,2024-12-22,-21,451886.14,339207.52999999997,33.21819241453751,4,3,4,High Value / High Growth
+H0343,Cardiologist,Cardiology,New Delhi,Delhi,Government,Medium potential,880980.53,220,2024-11-05,2024-12-01,2024-12-01,0,136072.95,210005.25,-35.20497701843168,2,1,2,Low Activity
+H0344,Neurologist,Neurology,Bilaspur,Chhattisgarh,Private,Medium potential,867034.73,296,2024-12-07,2024-12-01,2024-12-07,-6,196419.02,102291.7,92.0185313177902,2,2,3,Emerging HCP
+H0345,General Physician,Diabetes,New Delhi,Delhi,Corporate Chain,Medium potential,1071840.74,256,2024-12-16,2024-12-01,2024-12-16,-15,135420.62,173708.6,-22.041499384601572,3,2,2,High Value / Low Engagement
+H0346,Pulmonologist,Respiratory,Bhubaneswar,Odisha,Corporate Chain,High potential,2424964.33,703,2024-12-24,2024-12-01,2024-12-24,-23,489223.14,346169.14999999997,41.32488120330771,4,4,4,High Value / High Growth
+H0347,General Physician,Respiratory,Amritsar,Punjab,Corporate Chain,Low potential,329654.02999999997,82,2024-12-01,2024-12-01,2024-12-01,0,31286.82,71713.98,-56.37277417875845,1,1,1,Low Activity
+H0348,General Physician,Respiratory,Thiruvananthapuram,Kerala,Government,Low potential,276777.81,81,2024-12-12,2024-12-01,2024-12-12,-11,32571.61,82447.69,-60.49421154188795,1,2,1,Low Activity
+H0349,General Physician,Cardiology,Thiruvananthapuram,Kerala,Corporate Chain,Low potential,328978.81,98,2024-12-22,2024-12-01,2024-12-22,-21,69850.56,59121.33,18.147815686825712,1,3,2,Emerging HCP
+H0350,General Physician,Diabetes,Jaipur,Rajasthan,Private,Medium potential,1120387.74,315,2024-12-17,2024-12-01,2024-12-17,-16,258404.43,194082.2,33.14174612612593,3,3,3,High Value / High Growth
